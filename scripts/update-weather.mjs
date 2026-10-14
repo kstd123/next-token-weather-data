@@ -9,8 +9,23 @@ const requiredIds=['4271','381800','33','435','382200','273','639000','43','6010
 const popularNames=['Männlichen','Harder Kulm','Niesen','Stanserhorn','Rochers de Naye','Rochers-de-Naye','Bachalpsee','Säntis','Eggishorn','Piz Nair','Diavolezza','Muottas Muragl','Piz Corvatsch'];
 const number=s=>s?.trim()!==''&&Number.isFinite(Number(s))?Number(s):null;
 function cells(line){const out=[];let cell='',quote=false;for(let i=0;i<line.length;i++){const c=line[i];if(c==='"'){if(quote&&line[i+1]==='"'){cell+='"';i++;}else quote=!quote;}else if(c===';'&&!quote){out.push(cell);cell='';}else cell+=c;}out.push(cell.replace(/\r$/,''));return out;}
-async function request(url){if(!url.startsWith(root+collection+'/')&&!url.startsWith(root+'ch.meteoschweiz.ogd-smn/')&&!url.startsWith(root+'api/stac/v1/collections/'+collection+'/'))throw new Error('Unexpected source URL');const r=await fetch(url,{redirect:'manual',signal:AbortSignal.timeout(600000)});if(!r.ok)throw new Error(`Official source returned ${r.status}`);return r;}
+async function request(url,init={}){if(!url.startsWith(root+collection+'/')&&!url.startsWith(root+'ch.meteoschweiz.ogd-smn/')&&!url.startsWith(root+'api/stac/v1/collections/'+collection+'/'))throw new Error('Unexpected source URL');const r=await fetch(url,{...init,redirect:'manual',signal:AbortSignal.timeout(600000)});if(!r.ok)throw new Error(`Official source returned ${r.status}`);return r;}
 async function lines(url,consume,limit=60000000){const r=await request(url);if(!r.body)throw new Error('Empty CSV');const reader=r.body.getReader(),decoder=new TextDecoder('windows-1252');let size=0,pending='';try{while(true){const part=await reader.read();if(part.done)break;size+=part.value.byteLength;if(size>limit)throw new Error('CSV too large');pending+=decoder.decode(part.value,{stream:true});const rows=pending.split('\n');pending=rows.pop()??'';for(const row of rows)consume(row.replace(/\r$/,''));if(pending.length>10000)throw new Error('Bad CSV line');}pending+=decoder.decode();if(pending)consume(pending.replace(/\r$/,''));}finally{await reader.cancel().catch(()=>{});reader.releaseLock();}}
+// Ranged batches replace slow single nationwide transfers, only in this producer.
+// Process immutable run files in byte order and preserve rows split at boundaries.
+async function forecastLines(url,consume){
+ const probe=await request(url,{headers:{Range:'bytes=0-0','Accept-Encoding':'identity'}});
+ const range=probe.headers.get('content-range');await probe.body?.cancel();
+ const match=/^bytes 0-0\/(\d+)$/.exec(range??'');if(probe.status!==206||!match)throw new Error('Official forecast range protocol changed');
+ const total=Number(match[1]);if(total>60000000)throw new Error('Forecast file too large');
+ const block=4000000,decoder=new TextDecoder('windows-1252');let pending='';
+ for(let start=0;start<total;start+=block*4){
+  const ranges=Array.from({length:4},(_,i)=>start+i*block).filter(from=>from<total);
+  const buffers=await Promise.all(ranges.map(async from=>{const to=Math.min(from+block-1,total-1);const r=await request(url,{headers:{Range:`bytes=${from}-${to}`,'Accept-Encoding':'identity'}});if(r.status!==206||r.headers.get('content-range')!==`bytes ${from}-${to}/${total}`){await r.body?.cancel();throw new Error('Unexpected official byte range');}const value=await r.arrayBuffer();if(value.byteLength!==to-from+1)throw new Error('Truncated official byte range');return value;}));
+  for(const buffer of buffers){pending+=decoder.decode(buffer,{stream:true});const rows=pending.split('\n');pending=rows.pop()??'';for(const row of rows)consume(row.replace(/\r$/,''));}
+ }
+ pending+=decoder.decode();if(pending)consume(pending.replace(/\r$/,''));
+}
 const allPoints=[];let headers=[];
 await lines(root+collection+'/ogd-local-forecasting_meta_point.csv',line=>{if(!headers.length){headers=cells(line);for(const key of ['point_id','point_name','point_height_masl','point_coordinates_wgs84_lat','point_coordinates_wgs84_lon'])if(!headers.includes(key))throw new Error('Point schema changed');return;}if(!line)return;const row=cells(line),get=k=>row[headers.indexOf(k)];allPoints.push({id:get('point_id'),name:get('point_name'),altitude:Number(get('point_height_masl')),lat:Number(get('point_coordinates_wgs84_lat')),lng:Number(get('point_coordinates_wgs84_lon')),station:get('station_abbr')||null,distanceKm:null});},3000000);
 const selected=allPoints.filter(p=>requiredIds.includes(p.id)||p.altitude>=1400&&popularNames.some(name=>p.name.toLowerCase()===name.toLowerCase()));
@@ -30,7 +45,7 @@ let previous;try{previous=JSON.parse(await fs.readFile('weather/index.json','utf
 if(previous?.run===run){console.log('Latest complete run already published: '+run);process.exit(0);}
 const data=new Map(selected.map(p=>[p.id,new Map()]));
 for(let i=0;i<parameters.length;i+=2){await Promise.all(parameters.slice(i,i+2).map(async parameter=>{let header=false;const asset=assets.find(([name])=>name.includes('.'+run+'.'+parameter+'.csv'));console.log('Extracting '+parameter+' from official run '+run);
- await lines(asset[1].href,line=>{if(!header){if(!line.startsWith('point_id;point_type_id;Date;'))throw new Error('Forecast schema changed');header=true;return;}const separator=line.indexOf(';');if(!selectedIds.has(line.slice(0,separator)))return;const [id,,time,raw]=line.split(';');if(!/^\d{12}$/.test(time))throw new Error('Forecast timestamp changed');const rows=data.get(id),row=rows.get(time)??{};row[parameter]=number(raw);rows.set(time,row);});console.log('Finished '+parameter);
+ await forecastLines(asset[1].href,line=>{if(!header){if(!line.startsWith('point_id;point_type_id;Date;'))throw new Error('Forecast schema changed');header=true;return;}const separator=line.indexOf(';');if(!selectedIds.has(line.slice(0,separator)))return;const [id,,time,raw]=line.split(';');if(!/^\d{12}$/.test(time))throw new Error('Forecast timestamp changed');const rows=data.get(id),row=rows.get(time)??{};row[parameter]=number(raw);rows.set(time,row);});console.log('Finished '+parameter);
 }));}
 const output='weather/runs/'+run;await fs.mkdir(output,{recursive:true});
 const valid=[];

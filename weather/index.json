@@ -1,0 +1,8143 @@
+{
+  "version": 1,
+  "run": "202610141300",
+  "generatedAt": "2026-10-14T13:32:22.558Z",
+  "source": "https://data.geo.admin.ch/api/stac/v1/collections/ch.meteoschweiz.ogd-local-forecasting",
+  "license": "CC-BY-4.0",
+  "points": [
+    {
+      "id": "1",
+      "name": "Arosa",
+      "altitude": 1878,
+      "lat": 46.792661,
+      "lng": 9.679014,
+      "station": "ARO",
+      "distanceKm": null
+    },
+    {
+      "id": "10",
+      "name": "Andermatt",
+      "altitude": 1435,
+      "lat": 46.630914,
+      "lng": 8.580553,
+      "station": "ANT",
+      "distanceKm": null
+    },
+    {
+      "id": "19",
+      "name": "Grächen",
+      "altitude": 1605,
+      "lat": 46.195314,
+      "lng": 7.836822,
+      "station": "GRC",
+      "distanceKm": null
+    },
+    {
+      "id": "20",
+      "name": "Blatten, Lötschental",
+      "altitude": 1548,
+      "lat": 46.422261,
+      "lng": 7.825914,
+      "station": "BLA",
+      "distanceKm": null
+    },
+    {
+      "id": "23",
+      "name": "Passo del Bernina",
+      "altitude": 2260,
+      "lat": 46.409158,
+      "lng": 10.019567,
+      "station": "BEH",
+      "distanceKm": null
+    },
+    {
+      "id": "24",
+      "name": "Segl-Maria",
+      "altitude": 1804,
+      "lat": 46.432331,
+      "lng": 9.762325,
+      "station": "SIA",
+      "distanceKm": null
+    },
+    {
+      "id": "26",
+      "name": "Davos",
+      "altitude": 1594,
+      "lat": 46.812969,
+      "lng": 9.843558,
+      "station": "DAV",
+      "distanceKm": null
+    },
+    {
+      "id": "29",
+      "name": "Samedan",
+      "altitude": 1709,
+      "lat": 46.526247,
+      "lng": 9.879469,
+      "station": "SAM",
+      "distanceKm": null
+    },
+    {
+      "id": "31",
+      "name": "La Dôle",
+      "altitude": 1670,
+      "lat": 46.424794,
+      "lng": 6.099453,
+      "station": "DOL",
+      "distanceKm": null
+    },
+    {
+      "id": "33",
+      "name": "Jungfraujoch",
+      "altitude": 3571,
+      "lat": 46.547556,
+      "lng": 7.985444,
+      "station": "JUN",
+      "distanceKm": null
+    },
+    {
+      "id": "35",
+      "name": "Säntis",
+      "altitude": 2501,
+      "lat": 47.249447,
+      "lng": 9.343469,
+      "station": "SAE",
+      "distanceKm": null
+    },
+    {
+      "id": "38",
+      "name": "Le Moléson",
+      "altitude": 1974,
+      "lat": 46.546197,
+      "lng": 7.017753,
+      "station": "MLS",
+      "distanceKm": null
+    },
+    {
+      "id": "40",
+      "name": "Montana",
+      "altitude": 1423,
+      "lat": 46.298806,
+      "lng": 7.460814,
+      "station": "MVE",
+      "distanceKm": null
+    },
+    {
+      "id": "41",
+      "name": "Zermatt",
+      "altitude": 1638,
+      "lat": 46.029272,
+      "lng": 7.752433,
+      "station": "ZER",
+      "distanceKm": null
+    },
+    {
+      "id": "42",
+      "name": "Chasseral",
+      "altitude": 1594,
+      "lat": 47.131761,
+      "lng": 7.054367,
+      "station": "CHA",
+      "distanceKm": null
+    },
+    {
+      "id": "43",
+      "name": "Pilatus",
+      "altitude": 2105,
+      "lat": 46.978869,
+      "lng": 8.252256,
+      "station": "PIL",
+      "distanceKm": null
+    },
+    {
+      "id": "48",
+      "name": "Napf",
+      "altitude": 1404,
+      "lat": 47.004667,
+      "lng": 7.940117,
+      "station": "NAP",
+      "distanceKm": null
+    },
+    {
+      "id": "60",
+      "name": "Gütsch, Andermatt",
+      "altitude": 2286,
+      "lat": 46.652475,
+      "lng": 8.615531,
+      "station": "GUE",
+      "distanceKm": null
+    },
+    {
+      "id": "62",
+      "name": "Col du Grand St-Bernard",
+      "altitude": 2472,
+      "lat": 45.869092,
+      "lng": 7.170683,
+      "station": "GSB",
+      "distanceKm": null
+    },
+    {
+      "id": "72",
+      "name": "S. Bernardino",
+      "altitude": 1639,
+      "lat": 46.463542,
+      "lng": 9.1847,
+      "station": "SBE",
+      "distanceKm": null
+    },
+    {
+      "id": "73",
+      "name": "Weissfluhjoch",
+      "altitude": 2691,
+      "lat": 46.833342,
+      "lng": 9.806397,
+      "station": "WFJ",
+      "distanceKm": null
+    },
+    {
+      "id": "74",
+      "name": "Piz Corvatsch",
+      "altitude": 3294,
+      "lat": 46.418039,
+      "lng": 9.821308,
+      "station": "COV",
+      "distanceKm": null
+    },
+    {
+      "id": "87",
+      "name": "Cimetta",
+      "altitude": 1661,
+      "lat": 46.200467,
+      "lng": 8.79165,
+      "station": "CIM",
+      "distanceKm": null
+    },
+    {
+      "id": "88",
+      "name": "Evolène / Villa",
+      "altitude": 1825,
+      "lat": 46.112211,
+      "lng": 7.508631,
+      "station": "EVO",
+      "distanceKm": null
+    },
+    {
+      "id": "91",
+      "name": "Grimsel Hospiz",
+      "altitude": 1980,
+      "lat": 46.571689,
+      "lng": 8.333256,
+      "station": "GRH",
+      "distanceKm": null
+    },
+    {
+      "id": "96",
+      "name": "Robièi",
+      "altitude": 1898,
+      "lat": 46.443067,
+      "lng": 8.513389,
+      "station": "ROE",
+      "distanceKm": null
+    },
+    {
+      "id": "131",
+      "name": "Binn",
+      "altitude": 1479,
+      "lat": 46.367661,
+      "lng": 8.192306,
+      "station": "BIN",
+      "distanceKm": null
+    },
+    {
+      "id": "172",
+      "name": "Susch",
+      "altitude": 1416,
+      "lat": 46.754883,
+      "lng": 10.083011,
+      "station": "SUS",
+      "distanceKm": null
+    },
+    {
+      "id": "224",
+      "name": "St. Antönien",
+      "altitude": 1456,
+      "lat": 46.972131,
+      "lng": 9.825917,
+      "station": "SAN",
+      "distanceKm": null
+    },
+    {
+      "id": "273",
+      "name": "Titlis",
+      "altitude": 3045,
+      "lat": 46.770608,
+      "lng": 8.425981,
+      "station": "TIT",
+      "distanceKm": null
+    },
+    {
+      "id": "281",
+      "name": "Zervreila",
+      "altitude": 1738,
+      "lat": 46.578797,
+      "lng": 9.118797,
+      "station": "ZEV",
+      "distanceKm": null
+    },
+    {
+      "id": "317",
+      "name": "Mottec",
+      "altitude": 1580,
+      "lat": 46.147897,
+      "lng": 7.624033,
+      "station": "MTE",
+      "distanceKm": null
+    },
+    {
+      "id": "384",
+      "name": "Fionnay",
+      "altitude": 1500,
+      "lat": 46.03135,
+      "lng": 7.308961,
+      "station": "FIO",
+      "distanceKm": null
+    },
+    {
+      "id": "409",
+      "name": "Bivio",
+      "altitude": 1856,
+      "lat": 46.462494,
+      "lng": 9.668639,
+      "station": "BIV",
+      "distanceKm": null
+    },
+    {
+      "id": "414",
+      "name": "Matro",
+      "altitude": 2171,
+      "lat": 46.410103,
+      "lng": 8.924742,
+      "station": "MTR",
+      "distanceKm": null
+    },
+    {
+      "id": "417",
+      "name": "Malbun",
+      "altitude": 1610,
+      "lat": 47.103161,
+      "lng": 9.608608,
+      "station": "MAL",
+      "distanceKm": null
+    },
+    {
+      "id": "468",
+      "name": "Bergün / Latsch",
+      "altitude": 1408,
+      "lat": 46.627275,
+      "lng": 9.753706,
+      "station": "LAT",
+      "distanceKm": null
+    },
+    {
+      "id": "521",
+      "name": "Col des Mosses",
+      "altitude": 1412,
+      "lat": 46.391525,
+      "lng": 7.098239,
+      "station": "CDM",
+      "distanceKm": null
+    },
+    {
+      "id": "557",
+      "name": "Bosco/Gurin",
+      "altitude": 1486,
+      "lat": 46.316789,
+      "lng": 8.488719,
+      "station": "BOS",
+      "distanceKm": null
+    },
+    {
+      "id": "571",
+      "name": "Simplon-Dorf",
+      "altitude": 1465,
+      "lat": 46.196825,
+      "lng": 8.056336,
+      "station": "SIM",
+      "distanceKm": null
+    },
+    {
+      "id": "606",
+      "name": "Buffalora",
+      "altitude": 1971,
+      "lat": 46.648408,
+      "lng": 10.2672,
+      "station": "BUF",
+      "distanceKm": null
+    },
+    {
+      "id": "700",
+      "name": "Göscheneralp",
+      "altitude": 1745,
+      "lat": 46.647525,
+      "lng": 8.500025,
+      "station": "GOA",
+      "distanceKm": null
+    },
+    {
+      "id": "711",
+      "name": "Flühli, LU",
+      "altitude": 940,
+      "lat": 46.889436,
+      "lng": 8.020336,
+      "station": "FLU",
+      "distanceKm": null
+    },
+    {
+      "id": "835",
+      "name": "Bernina / Curtinatsch",
+      "altitude": 2090,
+      "lat": 46.441094,
+      "lng": 9.986886,
+      "station": "BEC",
+      "distanceKm": null
+    },
+    {
+      "id": "847",
+      "name": "Crap Masegn",
+      "altitude": 2468,
+      "lat": 46.842275,
+      "lng": 9.180042,
+      "station": "CMA",
+      "distanceKm": null
+    },
+    {
+      "id": "848",
+      "name": "Monte Generoso",
+      "altitude": 1600,
+      "lat": 45.927592,
+      "lng": 9.017875,
+      "station": "GEN",
+      "distanceKm": null
+    },
+    {
+      "id": "856",
+      "name": "Les Diablerets",
+      "altitude": 2964,
+      "lat": 46.32675,
+      "lng": 7.203781,
+      "station": "DIA",
+      "distanceKm": null
+    },
+    {
+      "id": "861",
+      "name": "Valbella",
+      "altitude": 1568,
+      "lat": 46.755039,
+      "lng": 9.554433,
+      "station": "VAB",
+      "distanceKm": null
+    },
+    {
+      "id": "862",
+      "name": "Piz Martegnas",
+      "altitude": 2668,
+      "lat": 46.577181,
+      "lng": 9.529544,
+      "station": "PMA",
+      "distanceKm": null
+    },
+    {
+      "id": "863",
+      "name": "Naluns / Schlivera",
+      "altitude": 2380,
+      "lat": 46.817164,
+      "lng": 10.2614,
+      "station": "NAS",
+      "distanceKm": null
+    },
+    {
+      "id": "864",
+      "name": "Les Attelas",
+      "altitude": 2734,
+      "lat": 46.0991,
+      "lng": 7.26865,
+      "station": "ATT",
+      "distanceKm": null
+    },
+    {
+      "id": "866",
+      "name": "Gornergrat",
+      "altitude": 3129,
+      "lat": 45.983644,
+      "lng": 7.785944,
+      "station": "GOR",
+      "distanceKm": null
+    },
+    {
+      "id": "867",
+      "name": "Eggishorn",
+      "altitude": 2892,
+      "lat": 46.426528,
+      "lng": 8.092728,
+      "station": "EGH",
+      "distanceKm": null
+    },
+    {
+      "id": "2518",
+      "name": "Untere Gantrischhütte, Rüschegg",
+      "altitude": 1513,
+      "lat": 46.717886,
+      "lng": 7.440361,
+      "station": "BEGTH",
+      "distanceKm": null
+    },
+    {
+      "id": "3954",
+      "name": "Davos / Seehornwald",
+      "altitude": 1637,
+      "lat": 46.815283,
+      "lng": 9.856006,
+      "station": "NABDAV",
+      "distanceKm": null
+    },
+    {
+      "id": "4048",
+      "name": "Davos Platz / Promenade",
+      "altitude": 1558,
+      "lat": 46.796142,
+      "lng": 9.822517,
+      "station": "GRDAP",
+      "distanceKm": null
+    },
+    {
+      "id": "4270",
+      "name": "Kleine Scheidegg",
+      "altitude": 2060,
+      "lat": 46.584189,
+      "lng": 7.959164,
+      "station": "BEKSE",
+      "distanceKm": null
+    },
+    {
+      "id": "4271",
+      "name": "Grindelwald / Oberläger",
+      "altitude": 1980,
+      "lat": 46.664833,
+      "lng": 8.081322,
+      "station": "BEGWA",
+      "distanceKm": null
+    },
+    {
+      "id": "4291",
+      "name": "Simplonpass",
+      "altitude": 1955,
+      "lat": 46.239839,
+      "lng": 8.0199,
+      "station": "VSSIM",
+      "distanceKm": null
+    },
+    {
+      "id": "4293",
+      "name": "Brig / Stafel",
+      "altitude": 2065,
+      "lat": 46.3058,
+      "lng": 8.066431,
+      "station": "VSBST",
+      "distanceKm": null
+    },
+    {
+      "id": "4294",
+      "name": "Brig / Wase",
+      "altitude": 1945,
+      "lat": 46.283283,
+      "lng": 8.05475,
+      "station": "VSBWA",
+      "distanceKm": null
+    },
+    {
+      "id": "4295",
+      "name": "Brig / Unners Nesseltal",
+      "altitude": 1505,
+      "lat": 46.278008,
+      "lng": 8.014408,
+      "station": "VSBUN",
+      "distanceKm": null
+    },
+    {
+      "id": "4309",
+      "name": "Arolla",
+      "altitude": 2005,
+      "lat": 46.014028,
+      "lng": 7.483919,
+      "station": "VSARO",
+      "distanceKm": null
+    },
+    {
+      "id": "4310",
+      "name": "Barrage Grande Dixence",
+      "altitude": 2162,
+      "lat": 46.083728,
+      "lng": 7.403142,
+      "station": "VSGDX",
+      "distanceKm": null
+    },
+    {
+      "id": "4311",
+      "name": "Bricola",
+      "altitude": 2431,
+      "lat": 46.046328,
+      "lng": 7.566356,
+      "station": "VSBRI",
+      "distanceKm": null
+    },
+    {
+      "id": "4312",
+      "name": "Findelen",
+      "altitude": 2170,
+      "lat": 46.010958,
+      "lng": 7.778389,
+      "station": "VSFIN",
+      "distanceKm": null
+    },
+    {
+      "id": "4313",
+      "name": "Stafel",
+      "altitude": 2183,
+      "lat": 46.004569,
+      "lng": 7.678739,
+      "station": "VSSTA",
+      "distanceKm": null
+    },
+    {
+      "id": "4314",
+      "name": "La Fouly",
+      "altitude": 1564,
+      "lat": 45.936628,
+      "lng": 7.096361,
+      "station": "VSFLY",
+      "distanceKm": null
+    },
+    {
+      "id": "4315",
+      "name": "Emosson",
+      "altitude": 1923,
+      "lat": 46.0656,
+      "lng": 6.930278,
+      "station": "VSEMO",
+      "distanceKm": null
+    },
+    {
+      "id": "4316",
+      "name": "Turtmann",
+      "altitude": 2180,
+      "lat": 46.169831,
+      "lng": 7.692408,
+      "station": "VSTUR",
+      "distanceKm": null
+    },
+    {
+      "id": "4317",
+      "name": "Moiry",
+      "altitude": 2127,
+      "lat": 46.137717,
+      "lng": 7.570217,
+      "station": "VSMOI",
+      "distanceKm": null
+    },
+    {
+      "id": "4319",
+      "name": "Salanfe",
+      "altitude": 1965,
+      "lat": 46.145647,
+      "lng": 6.972969,
+      "station": "VSSFE",
+      "distanceKm": null
+    },
+    {
+      "id": "4320",
+      "name": "Clusanfe",
+      "altitude": 1926,
+      "lat": 46.135931,
+      "lng": 6.885281,
+      "station": "VSCLU",
+      "distanceKm": null
+    },
+    {
+      "id": "4459",
+      "name": "Furkapass",
+      "altitude": 2425,
+      "lat": 46.576675,
+      "lng": 8.421361,
+      "station": "MFOFKP",
+      "distanceKm": null
+    },
+    {
+      "id": "4469",
+      "name": "Juf",
+      "altitude": 2050,
+      "lat": 46.448783,
+      "lng": 9.558547,
+      "station": "MMJUF",
+      "distanceKm": null
+    },
+    {
+      "id": "4483",
+      "name": "Safien / Thalkirch",
+      "altitude": 1700,
+      "lat": 46.631686,
+      "lng": 9.276756,
+      "station": "MMSAP",
+      "distanceKm": null
+    },
+    {
+      "id": "4485",
+      "name": "S-charl",
+      "altitude": 1800,
+      "lat": 46.715278,
+      "lng": 10.333239,
+      "station": "MMSRL",
+      "distanceKm": null
+    },
+    {
+      "id": "4493",
+      "name": "Zernez",
+      "altitude": 1474,
+      "lat": 46.698353,
+      "lng": 10.096475,
+      "station": "MMZNZ",
+      "distanceKm": null
+    },
+    {
+      "id": "4496",
+      "name": "Sorniot / Lac Inférieur",
+      "altitude": 1990,
+      "lat": 46.1666,
+      "lng": 7.099803,
+      "station": "VSSOR",
+      "distanceKm": null
+    },
+    {
+      "id": "4498",
+      "name": "Tsanfleuron",
+      "altitude": 2052,
+      "lat": 46.320703,
+      "lng": 7.301794,
+      "station": "VSTSN",
+      "distanceKm": null
+    },
+    {
+      "id": "4499",
+      "name": "Nendaz",
+      "altitude": 1938,
+      "lat": 46.122092,
+      "lng": 7.311411,
+      "station": "VSNEN",
+      "distanceKm": null
+    },
+    {
+      "id": "4501",
+      "name": "Bruchji",
+      "altitude": 2300,
+      "lat": 46.379378,
+      "lng": 7.971533,
+      "station": "VSBRU",
+      "distanceKm": null
+    },
+    {
+      "id": "4624",
+      "name": "Zuoz",
+      "altitude": 1662,
+      "lat": 46.601961,
+      "lng": 9.967011,
+      "station": "MMZOZ",
+      "distanceKm": null
+    },
+    {
+      "id": "4643",
+      "name": "Les Collons",
+      "altitude": 1770,
+      "lat": 46.178975,
+      "lng": 7.387361,
+      "station": "VSCOL",
+      "distanceKm": null
+    },
+    {
+      "id": "4647",
+      "name": "Bourg-St-Pierre",
+      "altitude": 1822,
+      "lat": 45.927597,
+      "lng": 7.198214,
+      "station": "VSBSP",
+      "distanceKm": null
+    },
+    {
+      "id": "4824",
+      "name": "Mürren",
+      "altitude": 1660,
+      "lat": 46.562264,
+      "lng": 7.895242,
+      "station": "MMMUE",
+      "distanceKm": null
+    },
+    {
+      "id": "4841",
+      "name": "Oeschinensee",
+      "altitude": 1681,
+      "lat": 46.502094,
+      "lng": 7.696994,
+      "station": "MMOES",
+      "distanceKm": null
+    },
+    {
+      "id": "4871",
+      "name": "Saas Fee",
+      "altitude": 1786,
+      "lat": 46.103186,
+      "lng": 7.922622,
+      "station": "MMSAF",
+      "distanceKm": null
+    },
+    {
+      "id": "4973",
+      "name": "Chamoson, Le Tséné",
+      "altitude": 1530,
+      "lat": 46.225639,
+      "lng": 7.212458,
+      "station": "VSCHM",
+      "distanceKm": null
+    },
+    {
+      "id": "4974",
+      "name": "Chamoson / Chamosentse",
+      "altitude": 2005,
+      "lat": 46.2268,
+      "lng": 7.160783,
+      "station": "VSCHC",
+      "distanceKm": null
+    },
+    {
+      "id": "4975",
+      "name": "Stausee Mattmark / Damm",
+      "altitude": 2200,
+      "lat": 46.049944,
+      "lng": 7.963164,
+      "station": "VSMAD",
+      "distanceKm": null
+    },
+    {
+      "id": "4976",
+      "name": "Stausee Mattmark / Chrizegge",
+      "altitude": 2010,
+      "lat": 46.057608,
+      "lng": 7.959878,
+      "station": "VSMAC",
+      "distanceKm": null
+    },
+    {
+      "id": "4977",
+      "name": "Stausee Mattmark / Zermeiggern",
+      "altitude": 1740,
+      "lat": 46.082044,
+      "lng": 7.957008,
+      "station": "VSZER",
+      "distanceKm": null
+    },
+    {
+      "id": "4978",
+      "name": "Vollèges, Le Merdenson",
+      "altitude": 1505,
+      "lat": 46.109311,
+      "lng": 7.184872,
+      "station": "VSVOL",
+      "distanceKm": null
+    },
+    {
+      "id": "4979",
+      "name": "Zinal, Bonnard",
+      "altitude": 2890,
+      "lat": 46.135875,
+      "lng": 7.655694,
+      "station": "VSZIN",
+      "distanceKm": null
+    },
+    {
+      "id": "5031",
+      "name": "Val Trupchun",
+      "altitude": 2135,
+      "lat": 46.596081,
+      "lng": 10.080775,
+      "station": "SNPVTR",
+      "distanceKm": null
+    },
+    {
+      "id": "10102",
+      "name": "Saas Balen",
+      "altitude": 1535,
+      "lat": 46.148778,
+      "lng": 7.928353,
+      "station": "VSSAB",
+      "distanceKm": null
+    },
+    {
+      "id": "10103",
+      "name": "Jeizinen",
+      "altitude": 1556,
+      "lat": 46.328389,
+      "lng": 7.722472,
+      "station": "VSJEI",
+      "distanceKm": null
+    },
+    {
+      "id": "10106",
+      "name": "Vercorin",
+      "altitude": 1650,
+      "lat": 46.237964,
+      "lng": 7.556281,
+      "station": "VSVER",
+      "distanceKm": null
+    },
+    {
+      "id": "10107",
+      "name": "Anzère",
+      "altitude": 1614,
+      "lat": 46.305244,
+      "lng": 7.407569,
+      "station": "VSANZ",
+      "distanceKm": null
+    },
+    {
+      "id": "10108",
+      "name": "Saleina",
+      "altitude": 1600,
+      "lat": 45.986031,
+      "lng": 7.093961,
+      "station": "VSSAL",
+      "distanceKm": null
+    },
+    {
+      "id": "10142",
+      "name": "Curnera",
+      "altitude": 1960,
+      "lat": 46.635561,
+      "lng": 8.7114,
+      "station": "AXPCUR",
+      "distanceKm": null
+    },
+    {
+      "id": "10146",
+      "name": "Limmernsee",
+      "altitude": 1873,
+      "lat": 46.845725,
+      "lng": 9.01475,
+      "station": "AXPLIM",
+      "distanceKm": null
+    },
+    {
+      "id": "10148",
+      "name": "Nalps",
+      "altitude": 1950,
+      "lat": 46.639531,
+      "lng": 8.765703,
+      "station": "AXPNAL",
+      "distanceKm": null
+    },
+    {
+      "id": "10150",
+      "name": "Sta. Maria",
+      "altitude": 1915,
+      "lat": 46.588508,
+      "lng": 8.804514,
+      "station": "AXPMAR",
+      "distanceKm": null
+    },
+    {
+      "id": "10154",
+      "name": "Mattmark (Im Lärch)",
+      "altitude": 2000,
+      "lat": 46.057517,
+      "lng": 7.960069,
+      "station": "AXPMAT",
+      "distanceKm": null
+    },
+    {
+      "id": "10155",
+      "name": "Isola",
+      "altitude": 1613,
+      "lat": 46.445503,
+      "lng": 9.190944,
+      "station": "AXPISO",
+      "distanceKm": null
+    },
+    {
+      "id": "10156",
+      "name": "Mauvoisin",
+      "altitude": 1844,
+      "lat": 46.002914,
+      "lng": 7.342461,
+      "station": "AXPMAU",
+      "distanceKm": null
+    },
+    {
+      "id": "10157",
+      "name": "Panix",
+      "altitude": 1456,
+      "lat": 46.825772,
+      "lng": 9.111364,
+      "station": "AXPPAN",
+      "distanceKm": null
+    },
+    {
+      "id": "10163",
+      "name": "Chironico",
+      "altitude": 1460,
+      "lat": 46.416006,
+      "lng": 8.806933,
+      "station": "TICHI",
+      "distanceKm": null
+    },
+    {
+      "id": "10168",
+      "name": "Olivone diga Luzzone",
+      "altitude": 1617,
+      "lat": 46.564981,
+      "lng": 8.960653,
+      "station": "TIOLI",
+      "distanceKm": null
+    },
+    {
+      "id": "10179",
+      "name": "Zermeiggern",
+      "altitude": 1740,
+      "lat": 46.081953,
+      "lng": 7.957072,
+      "station": "AXPZER",
+      "distanceKm": null
+    },
+    {
+      "id": "10186",
+      "name": "Hinterrhein",
+      "altitude": 1611,
+      "lat": 46.523689,
+      "lng": 9.183908,
+      "station": "MMHIR",
+      "distanceKm": null
+    },
+    {
+      "id": "10361",
+      "name": "Triesen / Wang",
+      "altitude": 1710,
+      "lat": 47.085508,
+      "lng": 9.561494,
+      "station": "FLTRI",
+      "distanceKm": null
+    },
+    {
+      "id": "10370",
+      "name": "Splügen",
+      "altitude": 1473,
+      "lat": 46.547106,
+      "lng": 9.313211,
+      "station": "BOGRSP",
+      "distanceKm": null
+    },
+    {
+      "id": "10372",
+      "name": "San Bernardino",
+      "altitude": 1631,
+      "lat": 46.462244,
+      "lng": 9.187631,
+      "station": "BOGRSB",
+      "distanceKm": null
+    },
+    {
+      "id": "10766",
+      "name": "Rothwald / Undru Egge",
+      "altitude": 1680,
+      "lat": 46.284458,
+      "lng": 8.043892,
+      "station": "BOVSUE",
+      "distanceKm": null
+    },
+    {
+      "id": "10767",
+      "name": "Simplonpass / Niwa",
+      "altitude": 1950,
+      "lat": 46.238625,
+      "lng": 8.021339,
+      "station": "BOVSSI",
+      "distanceKm": null
+    },
+    {
+      "id": "10789",
+      "name": "Quinto / Piora",
+      "altitude": 1960,
+      "lat": 46.546856,
+      "lng": 8.715978,
+      "station": "TIPIO",
+      "distanceKm": null
+    },
+    {
+      "id": "10795",
+      "name": "Andermatt / ARA",
+      "altitude": 1435,
+      "lat": 46.642019,
+      "lng": 8.590658,
+      "station": "URANT",
+      "distanceKm": null
+    },
+    {
+      "id": "10796",
+      "name": "Realp / Tiefenbach",
+      "altitude": 2119,
+      "lat": 46.593414,
+      "lng": 8.461597,
+      "station": "URRET",
+      "distanceKm": null
+    },
+    {
+      "id": "10797",
+      "name": "Realp / Ebnen",
+      "altitude": 1840,
+      "lat": 46.571694,
+      "lng": 8.489431,
+      "station": "URREE",
+      "distanceKm": null
+    },
+    {
+      "id": "10798",
+      "name": "Bürglen / Selez",
+      "altitude": 1736,
+      "lat": 46.909297,
+      "lng": 8.685786,
+      "station": "URBUE",
+      "distanceKm": null
+    },
+    {
+      "id": "10799",
+      "name": "Realp / Bahnhof DFB",
+      "altitude": 1553,
+      "lat": 46.594603,
+      "lng": 8.501594,
+      "station": "URREA",
+      "distanceKm": null
+    },
+    {
+      "id": "19999",
+      "name": "Champéry / Planachaux",
+      "altitude": 1943,
+      "lat": 46.177097,
+      "lng": 6.840297,
+      "station": "WNSPLA",
+      "distanceKm": null
+    },
+    {
+      "id": "20391",
+      "name": "Triesen / Lawena",
+      "altitude": 1532,
+      "lat": 47.067469,
+      "lng": 9.558494,
+      "station": "FLTRL",
+      "distanceKm": null
+    },
+    {
+      "id": "20431",
+      "name": "Silvaplana",
+      "altitude": 1916,
+      "lat": 46.465311,
+      "lng": 9.794725,
+      "station": "BOGRSI",
+      "distanceKm": null
+    },
+    {
+      "id": "20585",
+      "name": "St. Moritz",
+      "altitude": 1772,
+      "lat": 46.486783,
+      "lng": 9.836011,
+      "station": "GRSTR",
+      "distanceKm": null
+    },
+    {
+      "id": "20632",
+      "name": "Bivio",
+      "altitude": 1801,
+      "lat": 46.463142,
+      "lng": 9.657222,
+      "station": "BOGRBI",
+      "distanceKm": null
+    },
+    {
+      "id": "20636",
+      "name": "Gündlischwand / Sägistalsee",
+      "altitude": 1938,
+      "lat": 46.680744,
+      "lng": 7.978406,
+      "station": "KSSGS",
+      "distanceKm": null
+    },
+    {
+      "id": "20805",
+      "name": "Chanrion",
+      "altitude": 2473,
+      "lat": 45.939369,
+      "lng": 7.380592,
+      "station": "VSCHA",
+      "distanceKm": null
+    },
+    {
+      "id": "20860",
+      "name": "Bourg-St-Pierre",
+      "altitude": 1680,
+      "lat": 45.946436,
+      "lng": 7.209556,
+      "station": "BOVSSP",
+      "distanceKm": null
+    },
+    {
+      "id": "186200",
+      "name": "Les Mosses",
+      "altitude": 1433,
+      "lat": 46.394847,
+      "lng": 7.100936,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "187302",
+      "name": "Champoussin",
+      "altitude": 1587,
+      "lat": 46.208447,
+      "lng": 6.864636,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "187303",
+      "name": "Les Crosets",
+      "altitude": 1665,
+      "lat": 46.185944,
+      "lng": 6.837842,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "191800",
+      "name": "La Tzoumaz",
+      "altitude": 1493,
+      "lat": 46.14465,
+      "lng": 7.235733,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "193600",
+      "name": "Verbier",
+      "altitude": 1482,
+      "lat": 46.096792,
+      "lng": 7.226072,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "193800",
+      "name": "Champex-Lac",
+      "altitude": 1467,
+      "lat": 46.030233,
+      "lng": 7.115753,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "194400",
+      "name": "La Fouly VS",
+      "altitude": 1648,
+      "lat": 45.930778,
+      "lng": 7.099414,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "194505",
+      "name": "Chandonne (Liddes)",
+      "altitude": 1452,
+      "lat": 46.004253,
+      "lng": 7.180694,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "194509",
+      "name": "Vichères (Liddes)",
+      "altitude": 1424,
+      "lat": 45.996411,
+      "lng": 7.166497,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "194512",
+      "name": "Petit Vichères (Liddes)",
+      "altitude": 1403,
+      "lat": 45.993586,
+      "lng": 7.166536,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "194600",
+      "name": "Bourg-St-Pierre",
+      "altitude": 1622,
+      "lat": 45.946431,
+      "lng": 7.206783,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "194801",
+      "name": "Fionnay",
+      "altitude": 1505,
+      "lat": 46.031197,
+      "lng": 7.3095,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "196900",
+      "name": "St-Martin VS",
+      "altitude": 1411,
+      "lat": 46.175047,
+      "lng": 7.441292,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "196903",
+      "name": "Trogne (St-Martin)",
+      "altitude": 1495,
+      "lat": 46.168172,
+      "lng": 7.451583,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "196904",
+      "name": "Suen (St-Martin)",
+      "altitude": 1453,
+      "lat": 46.181739,
+      "lng": 7.437406,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "196905",
+      "name": "Eison (St.Martin)",
+      "altitude": 1652,
+      "lat": 46.15285,
+      "lng": 7.468228,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "197200",
+      "name": "Anzère",
+      "altitude": 1502,
+      "lat": 46.296661,
+      "lng": 7.398367,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198302",
+      "name": "Lana (Evolène)",
+      "altitude": 1403,
+      "lat": 46.120733,
+      "lng": 7.479361,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198400",
+      "name": "Les Haudères",
+      "altitude": 1445,
+      "lat": 46.083236,
+      "lng": 7.508844,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198401",
+      "name": "La Tour VS",
+      "altitude": 1409,
+      "lat": 46.097772,
+      "lng": 7.505619,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198500",
+      "name": "La Sage",
+      "altitude": 1644,
+      "lat": 46.09785,
+      "lng": 7.514722,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198501",
+      "name": "La Forclaz VS",
+      "altitude": 1724,
+      "lat": 46.085772,
+      "lng": 7.519839,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198502",
+      "name": "Villaz VS",
+      "altitude": 1737,
+      "lat": 46.106611,
+      "lng": 7.512367,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198600",
+      "name": "Arolla",
+      "altitude": 1981,
+      "lat": 46.030283,
+      "lng": 7.482781,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198801",
+      "name": "Thyon",
+      "altitude": 2056,
+      "lat": 46.182361,
+      "lng": 7.374078,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "198802",
+      "name": "Les Collons",
+      "altitude": 1799,
+      "lat": 46.183283,
+      "lng": 7.38585,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "199201",
+      "name": "Les Mayens-de-Sion",
+      "altitude": 1433,
+      "lat": 46.200186,
+      "lng": 7.383525,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "199701",
+      "name": "Siviez (Nendaz)",
+      "altitude": 1730,
+      "lat": 46.134917,
+      "lng": 7.317006,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "380133",
+      "name": "Jungfraujoch",
+      "altitude": 3450,
+      "lat": 46.547172,
+      "lng": 7.982525,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "381800",
+      "name": "Grindelwald",
+      "altitude": 1038,
+      "lat": 46.625594,
+      "lng": 8.031783,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "382200",
+      "name": "Lauterbrunnen",
+      "altitude": 800,
+      "lat": 46.595011,
+      "lng": 7.908217,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "382301",
+      "name": "Kleine Scheidegg",
+      "altitude": 2061,
+      "lat": 46.585031,
+      "lng": 7.960672,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "382302",
+      "name": "Eigergletscher",
+      "altitude": 2311,
+      "lat": 46.575322,
+      "lng": 7.972814,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "382500",
+      "name": "Mürren",
+      "altitude": 1650,
+      "lat": 46.560467,
+      "lng": 7.892736,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "382600",
+      "name": "Gimmelwald",
+      "altitude": 1406,
+      "lat": 46.546461,
+      "lng": 7.890169,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "385501",
+      "name": "Axalp",
+      "altitude": 1481,
+      "lat": 46.722411,
+      "lng": 8.037856,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "390123",
+      "name": "Rothwald",
+      "altitude": 1805,
+      "lat": 46.281633,
+      "lng": 8.039425,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "390500",
+      "name": "Saas-Almagell",
+      "altitude": 1669,
+      "lat": 46.095089,
+      "lng": 7.957578,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "390600",
+      "name": "Saas-Fee",
+      "altitude": 1796,
+      "lat": 46.109594,
+      "lng": 7.928047,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "390700",
+      "name": "Simplon Dorf",
+      "altitude": 1494,
+      "lat": 46.198039,
+      "lng": 8.0537,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "390702",
+      "name": "Simplon Hospiz",
+      "altitude": 2023,
+      "lat": 46.249636,
+      "lng": 8.032497,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "390800",
+      "name": "Saas-Balen",
+      "altitude": 1501,
+      "lat": 46.150958,
+      "lng": 7.927978,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "391000",
+      "name": "Saas-Grund",
+      "altitude": 1557,
+      "lat": 46.126497,
+      "lng": 7.936556,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "391300",
+      "name": "Rosswald",
+      "altitude": 1799,
+      "lat": 46.304197,
+      "lng": 8.038844,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "391401",
+      "name": "Belalp",
+      "altitude": 2100,
+      "lat": 46.373825,
+      "lng": 7.976331,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "391800",
+      "name": "Wiler (Lötschen)",
+      "altitude": 1433,
+      "lat": 46.403747,
+      "lng": 7.7814,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "391900",
+      "name": "Blatten (Lötschen)",
+      "altitude": 1528,
+      "lat": 46.419972,
+      "lng": 7.818783,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "392000",
+      "name": "Zermatt",
+      "altitude": 1610,
+      "lat": 46.019961,
+      "lng": 7.748289,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "392300",
+      "name": "Törbel",
+      "altitude": 1504,
+      "lat": 46.237586,
+      "lng": 7.8518,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "392500",
+      "name": "Grächen",
+      "altitude": 1615,
+      "lat": 46.196342,
+      "lng": 7.839194,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "392800",
+      "name": "Randa",
+      "altitude": 1407,
+      "lat": 46.098286,
+      "lng": 7.782367,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "392900",
+      "name": "Täsch",
+      "altitude": 1448,
+      "lat": 46.067911,
+      "lng": 7.778081,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "393500",
+      "name": "Bürchen",
+      "altitude": 1402,
+      "lat": 46.279917,
+      "lng": 7.81905,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "394602",
+      "name": "Gruben",
+      "altitude": 1805,
+      "lat": 46.215717,
+      "lng": 7.708803,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "396122",
+      "name": "St-Luc",
+      "altitude": 1658,
+      "lat": 46.2213,
+      "lng": 7.5964,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "396123",
+      "name": "Chandolin",
+      "altitude": 1900,
+      "lat": 46.2515,
+      "lng": 7.594803,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "396124",
+      "name": "Ayer",
+      "altitude": 1461,
+      "lat": 46.179814,
+      "lng": 7.601472,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "396125",
+      "name": "Zinal",
+      "altitude": 1688,
+      "lat": 46.137586,
+      "lng": 7.626464,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "396126",
+      "name": "Grimentz",
+      "altitude": 1577,
+      "lat": 46.179247,
+      "lng": 7.575481,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "396300",
+      "name": "Crans-Montana",
+      "altitude": 1476,
+      "lat": 46.307986,
+      "lng": 7.476061,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "396304",
+      "name": "Aminona",
+      "altitude": 1500,
+      "lat": 46.331225,
+      "lng": 7.522281,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "396305",
+      "name": "Crans VS",
+      "altitude": 1450,
+      "lat": 46.304661,
+      "lng": 7.459003,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "398700",
+      "name": "Riederalp",
+      "altitude": 1914,
+      "lat": 46.379017,
+      "lng": 8.033847,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "399200",
+      "name": "Bettmeralp",
+      "altitude": 1937,
+      "lat": 46.390081,
+      "lng": 8.062583,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "399600",
+      "name": "Binn",
+      "altitude": 1402,
+      "lat": 46.364269,
+      "lng": 8.186139,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "399700",
+      "name": "Bellwald",
+      "altitude": 1553,
+      "lat": 46.425531,
+      "lng": 8.158569,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "601000",
+      "name": "Kriens",
+      "altitude": 482,
+      "lat": 47.032631,
+      "lng": 8.281417,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "601002",
+      "name": "Pilatus Kulm",
+      "altitude": 2062,
+      "lat": 46.979475,
+      "lng": 8.255542,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "606800",
+      "name": "Melchsee-Frutt",
+      "altitude": 1926,
+      "lat": 46.774856,
+      "lng": 8.270722,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "635600",
+      "name": "Rigi Kaltbad",
+      "altitude": 1427,
+      "lat": 47.043722,
+      "lng": 8.465969,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "639000",
+      "name": "Engelberg",
+      "altitude": 1007,
+      "lat": 46.819867,
+      "lng": 8.408283,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "641003",
+      "name": "Rigi Staffel",
+      "altitude": 1569,
+      "lat": 47.051881,
+      "lng": 8.473194,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "641004",
+      "name": "Rigi Kulm",
+      "altitude": 1740,
+      "lat": 47.055039,
+      "lng": 8.4848,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "641005",
+      "name": "Rigi Scheidegg",
+      "altitude": 1637,
+      "lat": 47.027142,
+      "lng": 8.521908,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "649000",
+      "name": "Andermatt",
+      "altitude": 1439,
+      "lat": 46.634544,
+      "lng": 8.593733,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "649100",
+      "name": "Realp",
+      "altitude": 1545,
+      "lat": 46.59815,
+      "lng": 8.501622,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "649300",
+      "name": "Hospental",
+      "altitude": 1487,
+      "lat": 46.618372,
+      "lng": 8.567222,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "656500",
+      "name": "S. Bernardino",
+      "altitude": 1615,
+      "lat": 46.461392,
+      "lng": 9.192958,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "668401",
+      "name": "Cimalmotto",
+      "altitude": 1406,
+      "lat": 46.283144,
+      "lng": 8.487744,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "668500",
+      "name": "Bosco/Gurin",
+      "altitude": 1511,
+      "lat": 46.316808,
+      "lng": 8.492653,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "676001",
+      "name": "Molare",
+      "altitude": 1504,
+      "lat": 46.486606,
+      "lng": 8.830269,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "676004",
+      "name": "Carì",
+      "altitude": 1615,
+      "lat": 46.493322,
+      "lng": 8.818822,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "705000",
+      "name": "Arosa",
+      "altitude": 1748,
+      "lat": 46.780333,
+      "lng": 9.678358,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "705800",
+      "name": "Litzirüti",
+      "altitude": 1459,
+      "lat": 46.798725,
+      "lng": 9.702253,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "707600",
+      "name": "Parpan",
+      "altitude": 1497,
+      "lat": 46.760278,
+      "lng": 9.560053,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "707700",
+      "name": "Valbella",
+      "altitude": 1515,
+      "lat": 46.748081,
+      "lng": 9.553917,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "707800",
+      "name": "Lenzerheide/Lai",
+      "altitude": 1462,
+      "lat": 46.725947,
+      "lng": 9.555664,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "710600",
+      "name": "Tenna",
+      "altitude": 1652,
+      "lat": 46.747692,
+      "lng": 9.339722,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "710700",
+      "name": "Safien Platz",
+      "altitude": 1512,
+      "lat": 46.690344,
+      "lng": 9.314869,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "710900",
+      "name": "Thalkirch",
+      "altitude": 1622,
+      "lat": 46.648869,
+      "lng": 9.282044,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "714900",
+      "name": "Vrin",
+      "altitude": 1463,
+      "lat": 46.653919,
+      "lng": 9.096861,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "718500",
+      "name": "Platta",
+      "altitude": 1406,
+      "lat": 46.646667,
+      "lng": 8.848933,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "718700",
+      "name": "Camischolas",
+      "altitude": 1422,
+      "lat": 46.680092,
+      "lng": 8.764942,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "718800",
+      "name": "Sedrun",
+      "altitude": 1405,
+      "lat": 46.680397,
+      "lng": 8.775056,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "722600",
+      "name": "Stels",
+      "altitude": 1469,
+      "lat": 46.962736,
+      "lng": 9.724747,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "724600",
+      "name": "St. Antönien",
+      "altitude": 1465,
+      "lat": 46.971456,
+      "lng": 9.818528,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "726000",
+      "name": "Davos Dorf",
+      "altitude": 1556,
+      "lat": 46.807097,
+      "lng": 9.842703,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "726500",
+      "name": "Davos Wolfgang",
+      "altitude": 1599,
+      "lat": 46.830294,
+      "lng": 9.856447,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "727000",
+      "name": "Davos Platz",
+      "altitude": 1538,
+      "lat": 46.794753,
+      "lng": 9.824081,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "727200",
+      "name": "Davos Clavadel",
+      "altitude": 1662,
+      "lat": 46.766947,
+      "lng": 9.817022,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "727600",
+      "name": "Davos Frauenkirch",
+      "altitude": 1516,
+      "lat": 46.765253,
+      "lng": 9.795822,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "727700",
+      "name": "Davos Glaris",
+      "altitude": 1449,
+      "lat": 46.744361,
+      "lng": 9.778975,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "727800",
+      "name": "Davos Monstein",
+      "altitude": 1621,
+      "lat": 46.712611,
+      "lng": 9.770597,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "740400",
+      "name": "Feldis/Veulden",
+      "altitude": 1475,
+      "lat": 46.794522,
+      "lng": 9.432958,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "740700",
+      "name": "Trans",
+      "altitude": 1450,
+      "lat": 46.763239,
+      "lng": 9.461786,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "742800",
+      "name": "Tschappina",
+      "altitude": 1566,
+      "lat": 46.686544,
+      "lng": 9.371603,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743102",
+      "name": "Obermutten",
+      "altitude": 1853,
+      "lat": 46.673269,
+      "lng": 9.484664,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743303",
+      "name": "Lohn GR",
+      "altitude": 1583,
+      "lat": 46.651203,
+      "lng": 9.426803,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743304",
+      "name": "Mathon",
+      "altitude": 1538,
+      "lat": 46.637064,
+      "lng": 9.414511,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743305",
+      "name": "Wergenstein",
+      "altitude": 1488,
+      "lat": 46.626567,
+      "lng": 9.407139,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743400",
+      "name": "Sufers",
+      "altitude": 1423,
+      "lat": 46.570211,
+      "lng": 9.366011,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743500",
+      "name": "Splügen",
+      "altitude": 1456,
+      "lat": 46.552378,
+      "lng": 9.320767,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743600",
+      "name": "Medels im Rheinwald",
+      "altitude": 1553,
+      "lat": 46.547803,
+      "lng": 9.294786,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743700",
+      "name": "Nufenen",
+      "altitude": 1575,
+      "lat": 46.53995,
+      "lng": 9.244833,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743800",
+      "name": "Hinterrhein",
+      "altitude": 1613,
+      "lat": 46.530642,
+      "lng": 9.199192,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "744500",
+      "name": "Innerferrera",
+      "altitude": 1486,
+      "lat": 46.521303,
+      "lng": 9.443097,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "744700",
+      "name": "Cresta (Avers)",
+      "altitude": 1926,
+      "lat": 46.471114,
+      "lng": 9.51545,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "744800",
+      "name": "Juf",
+      "altitude": 2119,
+      "lat": 46.445478,
+      "lng": 9.579247,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "745400",
+      "name": "Rona",
+      "altitude": 1420,
+      "lat": 46.561483,
+      "lng": 9.625106,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "745500",
+      "name": "Mulegns",
+      "altitude": 1478,
+      "lat": 46.524158,
+      "lng": 9.620742,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "745600",
+      "name": "Sur",
+      "altitude": 1615,
+      "lat": 46.522517,
+      "lng": 9.632631,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "745602",
+      "name": "Marmorera",
+      "altitude": 1685,
+      "lat": 46.508917,
+      "lng": 9.635586,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "745700",
+      "name": "Bivio",
+      "altitude": 1768,
+      "lat": 46.4687,
+      "lng": 9.650897,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "746400",
+      "name": "Parsonz",
+      "altitude": 1411,
+      "lat": 46.606983,
+      "lng": 9.572444,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "748201",
+      "name": "Preda",
+      "altitude": 1795,
+      "lat": 46.589497,
+      "lng": 9.775872,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "748202",
+      "name": "Stugl/Stuls",
+      "altitude": 1536,
+      "lat": 46.650842,
+      "lng": 9.730592,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "748400",
+      "name": "Latsch",
+      "altitude": 1605,
+      "lat": 46.634733,
+      "lng": 9.751439,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "749400",
+      "name": "Davos Wiesen",
+      "altitude": 1438,
+      "lat": 46.703758,
+      "lng": 9.713544,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "750000",
+      "name": "St. Moritz",
+      "altitude": 1773,
+      "lat": 46.491592,
+      "lng": 9.835431,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "750200",
+      "name": "Bever",
+      "altitude": 1709,
+      "lat": 46.551608,
+      "lng": 9.889214,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "750300",
+      "name": "Samedan",
+      "altitude": 1708,
+      "lat": 46.534236,
+      "lng": 9.873417,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "750400",
+      "name": "Pontresina",
+      "altitude": 1813,
+      "lat": 46.491397,
+      "lng": 9.903781,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "750500",
+      "name": "Celerina/Schlarigna",
+      "altitude": 1720,
+      "lat": 46.51075,
+      "lng": 9.857642,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751200",
+      "name": "Champfèr",
+      "altitude": 1819,
+      "lat": 46.477608,
+      "lng": 9.811806,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751300",
+      "name": "Silvaplana",
+      "altitude": 1813,
+      "lat": 46.458447,
+      "lng": 9.794167,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751302",
+      "name": "Silvaplana-Surlej",
+      "altitude": 1829,
+      "lat": 46.456906,
+      "lng": 9.812342,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751400",
+      "name": "Sils/Segl Maria",
+      "altitude": 1809,
+      "lat": 46.431108,
+      "lng": 9.7639,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751402",
+      "name": "Fex",
+      "altitude": 1951,
+      "lat": 46.410911,
+      "lng": 9.766692,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751500",
+      "name": "Sils/Segl Baselgia",
+      "altitude": 1802,
+      "lat": 46.432764,
+      "lng": 9.757294,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751600",
+      "name": "Maloja",
+      "altitude": 1815,
+      "lat": 46.4025,
+      "lng": 9.6975,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751700",
+      "name": "Plaun da Lej",
+      "altitude": 1801,
+      "lat": 46.421369,
+      "lng": 9.725861,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "752200",
+      "name": "La Punt-Chamues-ch",
+      "altitude": 1691,
+      "lat": 46.576778,
+      "lng": 9.928714,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "752300",
+      "name": "Madulain",
+      "altitude": 1691,
+      "lat": 46.587917,
+      "lng": 9.939606,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "752400",
+      "name": "Zuoz",
+      "altitude": 1706,
+      "lat": 46.600156,
+      "lng": 9.959589,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "752500",
+      "name": "S-chanf",
+      "altitude": 1661,
+      "lat": 46.612422,
+      "lng": 9.984622,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "752600",
+      "name": "Cinuos-chel",
+      "altitude": 1682,
+      "lat": 46.637594,
+      "lng": 10.01555,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "752601",
+      "name": "Chapella",
+      "altitude": 1633,
+      "lat": 46.633175,
+      "lng": 10.010414,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "752700",
+      "name": "Brail",
+      "altitude": 1633,
+      "lat": 46.654411,
+      "lng": 10.03285,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "753000",
+      "name": "Zernez",
+      "altitude": 1471,
+      "lat": 46.699044,
+      "lng": 10.094142,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "753200",
+      "name": "Tschierv",
+      "altitude": 1678,
+      "lat": 46.627025,
+      "lng": 10.335353,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "753300",
+      "name": "Fuldera",
+      "altitude": 1640,
+      "lat": 46.609281,
+      "lng": 10.370558,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "753400",
+      "name": "Lü",
+      "altitude": 1871,
+      "lat": 46.618414,
+      "lng": 10.373875,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "753500",
+      "name": "Valchava",
+      "altitude": 1421,
+      "lat": 46.601078,
+      "lng": 10.4057,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "754200",
+      "name": "Susch",
+      "altitude": 1424,
+      "lat": 46.750253,
+      "lng": 10.079631,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "754300",
+      "name": "Lavin",
+      "altitude": 1401,
+      "lat": 46.767303,
+      "lng": 10.110475,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "754500",
+      "name": "Guarda",
+      "altitude": 1653,
+      "lat": 46.77585,
+      "lng": 10.152614,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "754600",
+      "name": "Ardez",
+      "altitude": 1444,
+      "lat": 46.774644,
+      "lng": 10.200267,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "755100",
+      "name": "Ftan",
+      "altitude": 1631,
+      "lat": 46.793333,
+      "lng": 10.247714,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "755300",
+      "name": "Tarasp",
+      "altitude": 1409,
+      "lat": 46.778019,
+      "lng": 10.260553,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "755400",
+      "name": "Sent",
+      "altitude": 1433,
+      "lat": 46.817322,
+      "lng": 10.338103,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "755700",
+      "name": "Vnà",
+      "altitude": 1638,
+      "lat": 46.844,
+      "lng": 10.362253,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "755900",
+      "name": "Tschlin",
+      "altitude": 1527,
+      "lat": 46.869683,
+      "lng": 10.424881,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "756200",
+      "name": "Samnaun-Compatsch",
+      "altitude": 1709,
+      "lat": 46.959697,
+      "lng": 10.399678,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "756300",
+      "name": "Samnaun Dorf",
+      "altitude": 1832,
+      "lat": 46.946442,
+      "lng": 10.364206,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "760200",
+      "name": "Casaccia",
+      "altitude": 1455,
+      "lat": 46.389783,
+      "lng": 9.664794,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "771000",
+      "name": "Ospizio Bernina",
+      "altitude": 2302,
+      "lat": 46.409969,
+      "lng": 10.02205,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "771002",
+      "name": "Alp Grüm",
+      "altitude": 2088,
+      "lat": 46.374633,
+      "lng": 10.031081,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "774202",
+      "name": "Sfazù",
+      "altitude": 1606,
+      "lat": 46.389419,
+      "lng": 10.079511,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "774203",
+      "name": "La Rösa",
+      "altitude": 1875,
+      "lat": 46.401478,
+      "lng": 10.066894,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "435",
+      "name": "Schilthorn",
+      "altitude": 2958,
+      "lat": 46.557089,
+      "lng": 7.835758,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "436",
+      "name": "Cabane Arpitettaz CAS",
+      "altitude": 2786,
+      "lat": 46.100886,
+      "lng": 7.679333,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "437",
+      "name": "Glattalphütte SAC",
+      "altitude": 1898,
+      "lat": 46.916906,
+      "lng": 8.875028,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "438",
+      "name": "Täschhütte SAC",
+      "altitude": 2701,
+      "lat": 46.051575,
+      "lng": 7.830006,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "439",
+      "name": "Balmhornhütte SAC",
+      "altitude": 1956,
+      "lat": 46.451203,
+      "lng": 7.689628,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "440",
+      "name": "Chamanna Jenatsch CAS",
+      "altitude": 2652,
+      "lat": 46.529356,
+      "lng": 9.72445,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "441",
+      "name": "Cabane des Diablerets CAS",
+      "altitude": 2486,
+      "lat": 46.338692,
+      "lng": 7.215472,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "442",
+      "name": "Treschhütte SAC",
+      "altitude": 1475,
+      "lat": 46.718611,
+      "lng": 8.649461,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "443",
+      "name": "Cabane de Chanrion CAS",
+      "altitude": 2462,
+      "lat": 45.939189,
+      "lng": 7.380917,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "444",
+      "name": "Chamanna da Boval CAS",
+      "altitude": 2495,
+      "lat": 46.415197,
+      "lng": 9.925067,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "445",
+      "name": "Domhütte SAC",
+      "altitude": 2940,
+      "lat": 46.102792,
+      "lng": 7.817639,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "446",
+      "name": "Cabane du Mont Fort CAS",
+      "altitude": 2457,
+      "lat": 46.0836,
+      "lng": 7.281067,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "447",
+      "name": "Chamonna Lischana CAS",
+      "altitude": 2500,
+      "lat": 46.765581,
+      "lng": 10.334558,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "448",
+      "name": "Rugghubelhütte SAC",
+      "altitude": 2294,
+      "lat": 46.846208,
+      "lng": 8.462933,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "449",
+      "name": "Konkordiahütte SAC",
+      "altitude": 2850,
+      "lat": 46.500453,
+      "lng": 8.053197,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "450",
+      "name": "Rifugio Saoseo CAS",
+      "altitude": 1985,
+      "lat": 46.397042,
+      "lng": 10.118614,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "451",
+      "name": "Glecksteinhütte SAC",
+      "altitude": 2316,
+      "lat": 46.625108,
+      "lng": 8.096503,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "452",
+      "name": "Salbithütte SAC",
+      "altitude": 2105,
+      "lat": 46.676483,
+      "lng": 8.551778,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "453",
+      "name": "Zapporthütte SAC",
+      "altitude": 2276,
+      "lat": 46.500036,
+      "lng": 9.093875,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "454",
+      "name": "Albert-Heim-Hütte SAC",
+      "altitude": 2542,
+      "lat": 46.608917,
+      "lng": 8.463553,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "455",
+      "name": "Glärnischhütte SAC",
+      "altitude": 1990,
+      "lat": 47.001597,
+      "lng": 8.963531,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "456",
+      "name": "Capanna Adula CAS",
+      "altitude": 2012,
+      "lat": 46.499181,
+      "lng": 8.995589,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "457",
+      "name": "Cufercalhütte SAC",
+      "altitude": 2385,
+      "lat": 46.593367,
+      "lng": 9.359033,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "458",
+      "name": "Geltenhütte SAC",
+      "altitude": 2002,
+      "lat": 46.369608,
+      "lng": 7.339031,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "459",
+      "name": "Oberaarjochhütte SAC",
+      "altitude": 3258,
+      "lat": 46.526044,
+      "lng": 8.173081,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "460",
+      "name": "Cabane de Valsorey CAS",
+      "altitude": 3037,
+      "lat": 45.930383,
+      "lng": 7.271775,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "461",
+      "name": "Wildhornhütte SAC",
+      "altitude": 2303,
+      "lat": 46.379242,
+      "lng": 7.387986,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "462",
+      "name": "Dammahütte SAC",
+      "altitude": 2438,
+      "lat": 46.644864,
+      "lng": 8.457786,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "463",
+      "name": "Voralphütte SAC",
+      "altitude": 2126,
+      "lat": 46.690542,
+      "lng": 8.487717,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "464",
+      "name": "Lohnerhütte SAC",
+      "altitude": 2171,
+      "lat": 46.474558,
+      "lng": 7.599675,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "465",
+      "name": "Blümlisalphütte SAC",
+      "altitude": 2840,
+      "lat": 46.510158,
+      "lng": 7.771639,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "466",
+      "name": "Hollandiahütte (Lötschenhütte) SAC",
+      "altitude": 3238,
+      "lat": 46.475294,
+      "lng": 7.960131,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "467",
+      "name": "Martinsmadhütte SAC",
+      "altitude": 2002,
+      "lat": 46.892558,
+      "lng": 9.1883,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "468",
+      "name": "Cabane des Vignettes CAS",
+      "altitude": 3160,
+      "lat": 45.989789,
+      "lng": 7.475703,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "469",
+      "name": "Capanna Cristallina CAS",
+      "altitude": 2575,
+      "lat": 46.471847,
+      "lng": 8.526233,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "470",
+      "name": "Hundsteinhütte SAC",
+      "altitude": 1554,
+      "lat": 47.254836,
+      "lng": 9.422217,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "471",
+      "name": "Rothornhütte SAC",
+      "altitude": 3198,
+      "lat": 46.048578,
+      "lng": 7.697367,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "472",
+      "name": "Kröntenhütte SAC",
+      "altitude": 1903,
+      "lat": 46.800067,
+      "lng": 8.575372,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "473",
+      "name": "Weissmieshütte SAC",
+      "altitude": 2726,
+      "lat": 46.143756,
+      "lng": 7.977872,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "474",
+      "name": "Sardonahütte SAC",
+      "altitude": 2158,
+      "lat": 46.915481,
+      "lng": 9.275467,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "475",
+      "name": "Spannorthütte SAC",
+      "altitude": 1956,
+      "lat": 46.799817,
+      "lng": 8.509808,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "476",
+      "name": "Bergseehütte SAC",
+      "altitude": 2370,
+      "lat": 46.6574,
+      "lng": 8.484919,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "477",
+      "name": "Leutschachhütte SAC",
+      "altitude": 2208,
+      "lat": 46.783697,
+      "lng": 8.601161,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "478",
+      "name": "Trifthütte SAC",
+      "altitude": 2520,
+      "lat": 46.677906,
+      "lng": 8.376636,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "479",
+      "name": "Schönbielhütte SAC",
+      "altitude": 2694,
+      "lat": 46.001978,
+      "lng": 7.628961,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "480",
+      "name": "Camona da Terri CAS",
+      "altitude": 2170,
+      "lat": 46.634522,
+      "lng": 9.005069,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "481",
+      "name": "Capanna Alzasca CAS",
+      "altitude": 1734,
+      "lat": 46.271319,
+      "lng": 8.589247,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "482",
+      "name": "Läntahütte SAC",
+      "altitude": 2090,
+      "lat": 46.541564,
+      "lng": 9.041742,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "483",
+      "name": "Cabane de Bertol CAS",
+      "altitude": 3311,
+      "lat": 46.006083,
+      "lng": 7.527656,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "484",
+      "name": "Wildstrubelhütte SAC",
+      "altitude": 2793,
+      "lat": 46.382992,
+      "lng": 7.467819,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "485",
+      "name": "Calandahütte SAC",
+      "altitude": 2073,
+      "lat": 46.883022,
+      "lng": 9.482192,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "486",
+      "name": "Monte-Leone-Hütte SAC",
+      "altitude": 2848,
+      "lat": 46.260739,
+      "lng": 8.080322,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "487",
+      "name": "Camona da Cavardiras CAS",
+      "altitude": 2649,
+      "lat": 46.742478,
+      "lng": 8.814272,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "488",
+      "name": "Chamanna da Grialetsch CAS",
+      "altitude": 2542,
+      "lat": 46.710111,
+      "lng": 9.960597,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "489",
+      "name": "Dossenhütte SAC",
+      "altitude": 2663,
+      "lat": 46.655131,
+      "lng": 8.169539,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "490",
+      "name": "Chamanna digl Kesch CAS",
+      "altitude": 2625,
+      "lat": 46.645156,
+      "lng": 9.875186,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "491",
+      "name": "Muttseehütte SAC",
+      "altitude": 2501,
+      "lat": 46.857475,
+      "lng": 9.018778,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "492",
+      "name": "Fründenhütte SAC",
+      "altitude": 2562,
+      "lat": 46.483636,
+      "lng": 7.741858,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "493",
+      "name": "Capanna di Sciora CAS",
+      "altitude": 2118,
+      "lat": 46.312469,
+      "lng": 9.611094,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "494",
+      "name": "Cabane Rambert CAS",
+      "altitude": 2580,
+      "lat": 46.230206,
+      "lng": 7.134239,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "495",
+      "name": "Cabane du Vélan CAS",
+      "altitude": 2642,
+      "lat": 45.916944,
+      "lng": 7.245431,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "496",
+      "name": "Carschinahütte SAC",
+      "altitude": 2236,
+      "lat": 47.007078,
+      "lng": 9.827378,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "497",
+      "name": "Capanna Cadlimo CAS",
+      "altitude": 2570,
+      "lat": 46.571611,
+      "lng": 8.695158,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "498",
+      "name": "Claridenhütte SAC",
+      "altitude": 2453,
+      "lat": 46.859517,
+      "lng": 8.935722,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "499",
+      "name": "Doldenhornhütte SAC",
+      "altitude": 1915,
+      "lat": 46.486906,
+      "lng": 7.697408,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "500",
+      "name": "Gelmerhütte SAC",
+      "altitude": 2412,
+      "lat": 46.631264,
+      "lng": 8.342769,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "501",
+      "name": "Bordierhütte SAC",
+      "altitude": 2886,
+      "lat": 46.144594,
+      "lng": 7.849844,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "502",
+      "name": "Chamanna Coaz CAS",
+      "altitude": 2610,
+      "lat": 46.383683,
+      "lng": 9.835442,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "503",
+      "name": "Brisenhaus SAC",
+      "altitude": 1753,
+      "lat": 46.914908,
+      "lng": 8.464181,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "504",
+      "name": "Enderlinhütte SAC",
+      "altitude": 1501,
+      "lat": 47.038831,
+      "lng": 9.551481,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "505",
+      "name": "Mutthornhütte SAC",
+      "altitude": 2901,
+      "lat": 46.486236,
+      "lng": 7.830111,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "506",
+      "name": "Chamanna da Tschierva CAS",
+      "altitude": 2583,
+      "lat": 46.403889,
+      "lng": 9.880056,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "507",
+      "name": "Camona da Medel CAS",
+      "altitude": 2524,
+      "lat": 46.640536,
+      "lng": 8.913758,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "508",
+      "name": "Etzlihütte SAC",
+      "altitude": 2052,
+      "lat": 46.718192,
+      "lng": 8.720661,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "509",
+      "name": "Brunnihütte SAC",
+      "altitude": 1860,
+      "lat": 46.840886,
+      "lng": 8.410658,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "510",
+      "name": "Lidernenhütte SAC",
+      "altitude": 1727,
+      "lat": 46.935164,
+      "lng": 8.692619,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "511",
+      "name": "Chelenalphütte SAC",
+      "altitude": 2350,
+      "lat": 46.6717,
+      "lng": 8.439911,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "512",
+      "name": "Spitzmeilenhütte SAC",
+      "altitude": 2087,
+      "lat": 47.034247,
+      "lng": 9.250572,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "513",
+      "name": "Silvrettahütte SAC",
+      "altitude": 2341,
+      "lat": 46.8545,
+      "lng": 10.041458,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "514",
+      "name": "Cabane du Trient CAS",
+      "altitude": 3170,
+      "lat": 45.9996,
+      "lng": 7.043678,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "515",
+      "name": "Schreckhornhütte SAC",
+      "altitude": 2530,
+      "lat": 46.581853,
+      "lng": 8.098703,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "516",
+      "name": "Cabane de la Dent Blanche CAS",
+      "altitude": 3507,
+      "lat": 46.020242,
+      "lng": 7.600867,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "517",
+      "name": "Cabane de Susanfe CAS",
+      "altitude": 2102,
+      "lat": 46.139444,
+      "lng": 6.898106,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "518",
+      "name": "Cabane de l'A Neuve CAS",
+      "altitude": 2735,
+      "lat": 45.9488,
+      "lng": 7.066861,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "519",
+      "name": "Planurahütte SAC",
+      "altitude": 2947,
+      "lat": 46.819969,
+      "lng": 8.880286,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "520",
+      "name": "Tierberglihütte SAC",
+      "altitude": 2795,
+      "lat": 46.702061,
+      "lng": 8.414222,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "521",
+      "name": "Capanna Piansecco CAS",
+      "altitude": 1988,
+      "lat": 46.494431,
+      "lng": 8.471408,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "522",
+      "name": "Cabane du Mountet CAS",
+      "altitude": 2886,
+      "lat": 46.060044,
+      "lng": 7.653519,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "523",
+      "name": "Sustlihütte SAC",
+      "altitude": 2257,
+      "lat": 46.751681,
+      "lng": 8.470731,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "524",
+      "name": "Chamonna dal Linard CAS",
+      "altitude": 2327,
+      "lat": 46.779422,
+      "lng": 10.082978,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "525",
+      "name": "Binntalhütte SAC",
+      "altitude": 2267,
+      "lat": 46.374711,
+      "lng": 8.291797,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "526",
+      "name": "Cabane des Violettes CAS",
+      "altitude": 2209,
+      "lat": 46.342378,
+      "lng": 7.500053,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "527",
+      "name": "Topalihütte SAC",
+      "altitude": 2674,
+      "lat": 46.156878,
+      "lng": 7.762011,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "528",
+      "name": "Sewenhütte SAC",
+      "altitude": 2150,
+      "lat": 46.746619,
+      "lng": 8.521025,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "529",
+      "name": "Turtmannhütte SAC",
+      "altitude": 2519,
+      "lat": 46.160111,
+      "lng": 7.699494,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "530",
+      "name": "Bächlitalhütte SAC",
+      "altitude": 2328,
+      "lat": 46.586972,
+      "lng": 8.282611,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "531",
+      "name": "Cabane de Moiry CAS",
+      "altitude": 2825,
+      "lat": 46.090711,
+      "lng": 7.5955,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "532",
+      "name": "Capanna Campo Tencia CAS",
+      "altitude": 2140,
+      "lat": 46.444233,
+      "lng": 8.732622,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "533",
+      "name": "Capanna Basodino (Robiei) CAS",
+      "altitude": 1856,
+      "lat": 46.439553,
+      "lng": 8.514075,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "534",
+      "name": "Cabane d'Orny CAS",
+      "altitude": 2826,
+      "lat": 46.001936,
+      "lng": 7.062831,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "535",
+      "name": "Cabane de Tracuit CAS",
+      "altitude": 3256,
+      "lat": 46.130311,
+      "lng": 7.679322,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "536",
+      "name": "Hüfihütte SAC",
+      "altitude": 2334,
+      "lat": 46.801842,
+      "lng": 8.819008,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "537",
+      "name": "Lämmerenhütte SAC",
+      "altitude": 2507,
+      "lat": 46.400297,
+      "lng": 7.574486,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "538",
+      "name": "Lauteraarhütte SAC",
+      "altitude": 2393,
+      "lat": 46.570072,
+      "lng": 8.222178,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "539",
+      "name": "Capanna da l'Albigna CAS",
+      "altitude": 2336,
+      "lat": 46.329989,
+      "lng": 9.655192,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "540",
+      "name": "Ringelspitzhütte SAC",
+      "altitude": 2000,
+      "lat": 46.865786,
+      "lng": 9.380728,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "541",
+      "name": "Cabane des Dix CAS",
+      "altitude": 2928,
+      "lat": 46.011064,
+      "lng": 7.417669,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "542",
+      "name": "Camona da Punteglias CAS",
+      "altitude": 2311,
+      "lat": 46.777236,
+      "lng": 8.956094,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "543",
+      "name": "Cabane de Saleinaz CAS",
+      "altitude": 2691,
+      "lat": 45.976464,
+      "lng": 7.070314,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "544",
+      "name": "Weisshornhütte SAC",
+      "altitude": 2932,
+      "lat": 46.085942,
+      "lng": 7.743578,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "545",
+      "name": "Fridolinshütte SAC",
+      "altitude": 2111,
+      "lat": 46.821322,
+      "lng": 8.950044,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "546",
+      "name": "Camona da Maighels CAS",
+      "altitude": 2310,
+      "lat": 46.625339,
+      "lng": 8.690111,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "547",
+      "name": "Baltschiederklause SAC",
+      "altitude": 2783,
+      "lat": 46.394986,
+      "lng": 7.889814,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "548",
+      "name": "Capanna Corno-Gries CAS",
+      "altitude": 2338,
+      "lat": 46.467064,
+      "lng": 8.410053,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "549",
+      "name": "Rotondohütte SAC",
+      "altitude": 2570,
+      "lat": 46.544897,
+      "lng": 8.484397,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "550",
+      "name": "Capanna del Forno CAS",
+      "altitude": 2574,
+      "lat": 46.331878,
+      "lng": 9.709356,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "551",
+      "name": "Almagellerhütte SAC",
+      "altitude": 2894,
+      "lat": 46.107611,
+      "lng": 8.007672,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "552",
+      "name": "Finsteraarhornhütte SAC",
+      "altitude": 3048,
+      "lat": 46.521964,
+      "lng": 8.114453,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "553",
+      "name": "Leglerhütte SAC",
+      "altitude": 2273,
+      "lat": 46.927408,
+      "lng": 9.080214,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "554",
+      "name": "Chamanna d'Es-cha CAS",
+      "altitude": 2594,
+      "lat": 46.611433,
+      "lng": 9.902878,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "555",
+      "name": "Oberaletschhütte SAC",
+      "altitude": 2640,
+      "lat": 46.424931,
+      "lng": 7.973844,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "556",
+      "name": "Capanna Motterascio (Michela) CAS",
+      "altitude": 2172,
+      "lat": 46.593356,
+      "lng": 9.005472,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "557",
+      "name": "Chamonna Tuoi CAS",
+      "altitude": 2250,
+      "lat": 46.830783,
+      "lng": 10.132525,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "558",
+      "name": "Monte-Rosa-Hütte SAC",
+      "altitude": 2883,
+      "lat": 45.956933,
+      "lng": 7.814533,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "559",
+      "name": "Gspaltenhornhütte SAC",
+      "altitude": 2455,
+      "lat": 46.5127,
+      "lng": 7.810233,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "560",
+      "name": "Capanna Sasc Furä CAS",
+      "altitude": 1904,
+      "lat": 46.315311,
+      "lng": 9.582397,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "561",
+      "name": "Britanniahütte SAC",
+      "altitude": 3030,
+      "lat": 46.060081,
+      "lng": 7.935086,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "562",
+      "name": "Gaulihütte SAC",
+      "altitude": 2205,
+      "lat": 46.623769,
+      "lng": 8.216642,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "563",
+      "name": "Windegghütte SAC",
+      "altitude": 1886,
+      "lat": 46.694983,
+      "lng": 8.348033,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "564",
+      "name": "Chamona d'Ela CAS",
+      "altitude": 2252,
+      "lat": 46.618764,
+      "lng": 9.691894,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "565",
+      "name": "Fergenhütte SAC",
+      "altitude": 2141,
+      "lat": 46.868972,
+      "lng": 9.964775,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "566",
+      "name": "Aarbiwak SAC",
+      "altitude": 2731,
+      "lat": 46.555536,
+      "lng": 8.152208,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "567",
+      "name": "Bivouac au Col de la Dent Blanche CAS",
+      "altitude": 3540,
+      "lat": 46.041928,
+      "lng": 7.607083,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "568",
+      "name": "Refuge de Chalin CAS",
+      "altitude": 2595,
+      "lat": 46.179222,
+      "lng": 6.947189,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "569",
+      "name": "Grassenbiwak SAC",
+      "altitude": 2647,
+      "lat": 46.770175,
+      "lng": 8.446642,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "570",
+      "name": "Lagginbiwak SAC",
+      "altitude": 2428,
+      "lat": 46.164428,
+      "lng": 8.045378,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "571",
+      "name": "Berglihütte SAC",
+      "altitude": 3299,
+      "lat": 46.566789,
+      "lng": 8.020531,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "572",
+      "name": "Arbenbiwak SAC",
+      "altitude": 3225,
+      "lat": 46.031361,
+      "lng": 7.665047,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "573",
+      "name": "Bivouac de l'Aiguillette à la Singla CAS",
+      "altitude": 3179,
+      "lat": 45.941472,
+      "lng": 7.454072,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "574",
+      "name": "Guggihütte SAC",
+      "altitude": 2791,
+      "lat": 46.562769,
+      "lng": 7.974408,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "575",
+      "name": "Refuge des Bouquetins CAS",
+      "altitude": 2980,
+      "lat": 45.970869,
+      "lng": 7.530486,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "576",
+      "name": "Mittelaletschbiwak SAC",
+      "altitude": 3013,
+      "lat": 46.464864,
+      "lng": 8.023906,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "577",
+      "name": "Stockhornbiwak SAC",
+      "altitude": 2598,
+      "lat": 46.377403,
+      "lng": 7.881056,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "578",
+      "name": "Rottalhütte SAC",
+      "altitude": 2755,
+      "lat": 46.526111,
+      "lng": 7.944711,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "579",
+      "name": "Rosenlauibiwak SAC",
+      "altitude": 2330,
+      "lat": 46.659131,
+      "lng": 8.167497,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "580",
+      "name": "Ramozhütte SAC",
+      "altitude": 2293,
+      "lat": 46.730878,
+      "lng": 9.64375,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "581",
+      "name": "Solvaybiwak SAC",
+      "altitude": 4003,
+      "lat": 45.978681,
+      "lng": 7.662967,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "582",
+      "name": "Mischabeljochbiwak SAC",
+      "altitude": 3855,
+      "lat": 46.074214,
+      "lng": 7.865803,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "583",
+      "name": "Bivouac du Dolent (La Maye) CAS",
+      "altitude": 2667,
+      "lat": 45.927261,
+      "lng": 7.068986,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "584",
+      "name": "Salbitschijenbiwak SAC",
+      "altitude": 2400,
+      "lat": 46.67615,
+      "lng": 8.523692,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "585",
+      "name": "Seetalhütte SAC",
+      "altitude": 2065,
+      "lat": 46.873903,
+      "lng": 10.009319,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "586",
+      "name": "Schalijochbiwak SAC",
+      "altitude": 3786,
+      "lat": 46.093311,
+      "lng": 7.709514,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "587",
+      "name": "Silberhornhütte SAC",
+      "altitude": 2663,
+      "lat": 46.549028,
+      "lng": 7.933583,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "588",
+      "name": "Glaubenbielen",
+      "altitude": 1611,
+      "lat": 46.819206,
+      "lng": 8.093442,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "589",
+      "name": "Glaubenberg",
+      "altitude": 1543,
+      "lat": 46.892253,
+      "lng": 8.107689,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "592",
+      "name": "Grimselpass",
+      "altitude": 2164,
+      "lat": 46.561511,
+      "lng": 8.337697,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "593",
+      "name": "Nufenenpass",
+      "altitude": 2480,
+      "lat": 46.477631,
+      "lng": 8.389553,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "594",
+      "name": "Gotthardpass",
+      "altitude": 2107,
+      "lat": 46.559306,
+      "lng": 8.561156,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "595",
+      "name": "Bernhardinpass",
+      "altitude": 2067,
+      "lat": 46.497136,
+      "lng": 9.171144,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "596",
+      "name": "Splügenpass",
+      "altitude": 2114,
+      "lat": 46.505444,
+      "lng": 9.330389,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "600",
+      "name": "Ibergeregg",
+      "altitude": 1406,
+      "lat": 47.017436,
+      "lng": 8.733256,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "601",
+      "name": "Pragelpass",
+      "altitude": 1548,
+      "lat": 46.99915,
+      "lng": 8.869492,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "602",
+      "name": "Ächerli",
+      "altitude": 1457,
+      "lat": 46.905083,
+      "lng": 8.335261,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "603",
+      "name": "Sustenpass",
+      "altitude": 2224,
+      "lat": 46.731317,
+      "lng": 8.451206,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "604",
+      "name": "Furkapass",
+      "altitude": 2429,
+      "lat": 46.572569,
+      "lng": 8.415036,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "605",
+      "name": "Oberalppass",
+      "altitude": 2044,
+      "lat": 46.658669,
+      "lng": 8.671208,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "606",
+      "name": "Passo del Lucomagno",
+      "altitude": 1972,
+      "lat": 46.5743,
+      "lng": 8.801183,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "610",
+      "name": "Wolfgang",
+      "altitude": 1632,
+      "lat": 46.833133,
+      "lng": 9.853992,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "611",
+      "name": "Ofenpass",
+      "altitude": 2149,
+      "lat": 46.639669,
+      "lng": 10.292489,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "612",
+      "name": "Pass Umbrail",
+      "altitude": 2501,
+      "lat": 46.541642,
+      "lng": 10.433169,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "613",
+      "name": "Flüelapass",
+      "altitude": 2384,
+      "lat": 46.748692,
+      "lng": 9.948856,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "614",
+      "name": "Albulapass",
+      "altitude": 2312,
+      "lat": 46.582347,
+      "lng": 9.837706,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "615",
+      "name": "Lenzerheide",
+      "altitude": 1550,
+      "lat": 46.753442,
+      "lng": 9.558486,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "616",
+      "name": "Passo del Maloja",
+      "altitude": 1815,
+      "lat": 46.399944,
+      "lng": 9.695803,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "617",
+      "name": "Julierpass",
+      "altitude": 2284,
+      "lat": 46.472217,
+      "lng": 9.72795,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "618",
+      "name": "Forcola di Livigno",
+      "altitude": 2314,
+      "lat": 46.440933,
+      "lng": 10.056169,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "619",
+      "name": "Passo del Bernina",
+      "altitude": 2328,
+      "lat": 46.410925,
+      "lng": 10.027636,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "621",
+      "name": "Simplonpass",
+      "altitude": 2006,
+      "lat": 46.250206,
+      "lng": 8.031678,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "623",
+      "name": "Col du Marchairuz",
+      "altitude": 1447,
+      "lat": 46.552806,
+      "lng": 6.250283,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "624",
+      "name": "Schwarzenbühl",
+      "altitude": 1546,
+      "lat": 46.738625,
+      "lng": 7.392478,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "625",
+      "name": "Gurnigelpass",
+      "altitude": 1610,
+      "lat": 46.732256,
+      "lng": 7.448056,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "626",
+      "name": "Jaunpass",
+      "altitude": 1508,
+      "lat": 46.591194,
+      "lng": 7.340831,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "628",
+      "name": "Col d'Ayerne",
+      "altitude": 1466,
+      "lat": 46.397642,
+      "lng": 6.992194,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "629",
+      "name": "Col des Mosses",
+      "altitude": 1445,
+      "lat": 46.398983,
+      "lng": 7.102625,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "630",
+      "name": "Col du Pillon",
+      "altitude": 1546,
+      "lat": 46.353414,
+      "lng": 7.204567,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "631",
+      "name": "Col de la Croix",
+      "altitude": 1776,
+      "lat": 46.324886,
+      "lng": 7.126803,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "633",
+      "name": "Col de la Forclaz",
+      "altitude": 1527,
+      "lat": 46.057844,
+      "lng": 7.001594,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "634",
+      "name": "Col des Planches",
+      "altitude": 1408,
+      "lat": 46.096992,
+      "lng": 7.124172,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "635",
+      "name": "Col du Lein",
+      "altitude": 1686,
+      "lat": 46.112267,
+      "lng": 7.159203,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "636",
+      "name": "Col de Champex",
+      "altitude": 1497,
+      "lat": 46.031947,
+      "lng": 7.106703,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "637",
+      "name": "Col du Grand St-Bernard",
+      "altitude": 2469,
+      "lat": 45.869056,
+      "lng": 7.170397,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "642",
+      "name": "Col du Chasseral",
+      "altitude": 1502,
+      "lat": 47.119639,
+      "lng": 7.032169,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "651",
+      "name": "Col de la Pierre du Moëllé",
+      "altitude": 1661,
+      "lat": 46.391767,
+      "lng": 7.046206,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "652",
+      "name": "Col du Sanetsch",
+      "altitude": 2253,
+      "lat": 46.331494,
+      "lng": 7.286217,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "653",
+      "name": "Croix de Coeur",
+      "altitude": 2174,
+      "lat": 46.121811,
+      "lng": 7.232308,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "655",
+      "name": "Portes de Culet",
+      "altitude": 1788,
+      "lat": 46.258253,
+      "lng": 6.873103,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "659",
+      "name": "Klausenpass",
+      "altitude": 1948,
+      "lat": 46.868192,
+      "lng": 8.855481,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "661",
+      "name": "Grosse Scheidegg",
+      "altitude": 1962,
+      "lat": 46.655964,
+      "lng": 8.101858,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "662",
+      "name": "Piz Corvatsch",
+      "altitude": 3451,
+      "lat": 46.408344,
+      "lng": 9.816106,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "663",
+      "name": "Piz Cotschen",
+      "altitude": 3026,
+      "lat": 46.541861,
+      "lng": 10.457308,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "664",
+      "name": "Piz Cancian",
+      "altitude": 3103,
+      "lat": 46.283283,
+      "lng": 9.999603,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "665",
+      "name": "Piz Varuna",
+      "altitude": 3454,
+      "lat": 46.352219,
+      "lng": 9.992858,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "666",
+      "name": "Piz Glüschaint",
+      "altitude": 3594,
+      "lat": 46.362439,
+      "lng": 9.840067,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "667",
+      "name": "Piz Zupò",
+      "altitude": 3996,
+      "lat": 46.368322,
+      "lng": 9.931169,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "668",
+      "name": "Piz Tschierva",
+      "altitude": 3546,
+      "lat": 46.414483,
+      "lng": 9.886261,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "669",
+      "name": "Piz Julier",
+      "altitude": 3380,
+      "lat": 46.491003,
+      "lng": 9.7599,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "670",
+      "name": "Piz Ot",
+      "altitude": 3247,
+      "lat": 46.543272,
+      "lng": 9.809975,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "671",
+      "name": "Pischahorn",
+      "altitude": 2981,
+      "lat": 46.813061,
+      "lng": 9.947203,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "672",
+      "name": "Piz Roseg",
+      "altitude": 3936,
+      "lat": 46.373606,
+      "lng": 9.882942,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "673",
+      "name": "Piz Scerscen",
+      "altitude": 3971,
+      "lat": 46.378333,
+      "lng": 9.900689,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "674",
+      "name": "Piz Palü",
+      "altitude": 3900,
+      "lat": 46.378833,
+      "lng": 9.960261,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "675",
+      "name": "Piz Bernina",
+      "altitude": 4049,
+      "lat": 46.382353,
+      "lng": 9.90805,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "676",
+      "name": "Piz Cambrena",
+      "altitude": 3606,
+      "lat": 46.387417,
+      "lng": 9.977386,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "677",
+      "name": "Scima da Saoseo",
+      "altitude": 3263,
+      "lat": 46.385625,
+      "lng": 10.158008,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "678",
+      "name": "Piz Morteratsch",
+      "altitude": 3751,
+      "lat": 46.402492,
+      "lng": 9.901517,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "679",
+      "name": "Piz Paradisin",
+      "altitude": 3303,
+      "lat": 46.426033,
+      "lng": 10.117203,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "680",
+      "name": "Piz Languard",
+      "altitude": 3263,
+      "lat": 46.488403,
+      "lng": 9.956417,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "681",
+      "name": "Piz Vadret",
+      "altitude": 3199,
+      "lat": 46.508839,
+      "lng": 9.950853,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "682",
+      "name": "Piz Murtaröl",
+      "altitude": 3180,
+      "lat": 46.570339,
+      "lng": 10.287469,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "683",
+      "name": "Piz Üertsch",
+      "altitude": 3267,
+      "lat": 46.5964,
+      "lng": 9.836411,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "684",
+      "name": "Piz Kesch",
+      "altitude": 3418,
+      "lat": 46.621294,
+      "lng": 9.872775,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "685",
+      "name": "Piz Quattervals",
+      "altitude": 3165,
+      "lat": 46.627161,
+      "lng": 10.094908,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "686",
+      "name": "Piz Vadret",
+      "altitude": 3229,
+      "lat": 46.687031,
+      "lng": 9.9627,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "687",
+      "name": "Piz Sesvenna",
+      "altitude": 3204,
+      "lat": 46.705961,
+      "lng": 10.402817,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "688",
+      "name": "Aroser Rothorn",
+      "altitude": 2980,
+      "lat": 46.737847,
+      "lng": 9.613897,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "689",
+      "name": "Piz Pisoc",
+      "altitude": 3174,
+      "lat": 46.744467,
+      "lng": 10.279775,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "690",
+      "name": "Flüela Wisshorn",
+      "altitude": 3085,
+      "lat": 46.762122,
+      "lng": 9.966628,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "691",
+      "name": "Tiejer Flue",
+      "altitude": 2781,
+      "lat": 46.78095,
+      "lng": 9.734586,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "692",
+      "name": "Piz Lischana",
+      "altitude": 3106,
+      "lat": 46.769547,
+      "lng": 10.345261,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "693",
+      "name": "Piz Linard",
+      "altitude": 3410,
+      "lat": 46.798942,
+      "lng": 10.071436,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "694",
+      "name": "Weissfluh",
+      "altitude": 2844,
+      "lat": 46.835211,
+      "lng": 9.7942,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "695",
+      "name": "Piz Buin Grond",
+      "altitude": 3312,
+      "lat": 46.844119,
+      "lng": 10.118881,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "696",
+      "name": "Bündner Vorab",
+      "altitude": 3027,
+      "lat": 46.873919,
+      "lng": 9.156783,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "697",
+      "name": "Glarner Vorab",
+      "altitude": 3017,
+      "lat": 46.879872,
+      "lng": 9.152922,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "698",
+      "name": "Augstenberg",
+      "altitude": 3230,
+      "lat": 46.864622,
+      "lng": 10.203858,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "699",
+      "name": "Schildflue",
+      "altitude": 2887,
+      "lat": 46.880783,
+      "lng": 9.956703,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "700",
+      "name": "Ringelspitz",
+      "altitude": 3247,
+      "lat": 46.898272,
+      "lng": 9.343086,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "701",
+      "name": "Gross Litzner",
+      "altitude": 3109,
+      "lat": 46.886456,
+      "lng": 10.038253,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "702",
+      "name": "Haldensteiner Calanda",
+      "altitude": 2805,
+      "lat": 46.899886,
+      "lng": 9.467272,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "703",
+      "name": "Piz Segnas",
+      "altitude": 3099,
+      "lat": 46.907892,
+      "lng": 9.239706,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "704",
+      "name": "Fluchthorn",
+      "altitude": 3398,
+      "lat": 46.890717,
+      "lng": 10.227442,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "705",
+      "name": "Piz Sardona",
+      "altitude": 3057,
+      "lat": 46.922728,
+      "lng": 9.251597,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "706",
+      "name": "Muttler",
+      "altitude": 3296,
+      "lat": 46.900661,
+      "lng": 10.378742,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "707",
+      "name": "Madrisahorn",
+      "altitude": 2826,
+      "lat": 46.931067,
+      "lng": 9.872181,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "708",
+      "name": "Pizol",
+      "altitude": 2844,
+      "lat": 46.959158,
+      "lng": 9.386719,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "709",
+      "name": "Sulzfluh",
+      "altitude": 2817,
+      "lat": 47.012678,
+      "lng": 9.839739,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "710",
+      "name": "Schesaplana",
+      "altitude": 2965,
+      "lat": 47.053831,
+      "lng": 9.707397,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "711",
+      "name": "Säntis",
+      "altitude": 2502,
+      "lat": 47.249425,
+      "lng": 9.343242,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "712",
+      "name": "Pizzo Rotondo",
+      "altitude": 3192,
+      "lat": 46.517569,
+      "lng": 8.466122,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "713",
+      "name": "Uri Rotstock",
+      "altitude": 2929,
+      "lat": 46.861756,
+      "lng": 8.535211,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "714",
+      "name": "Brunnistock",
+      "altitude": 2952,
+      "lat": 46.847703,
+      "lng": 8.550014,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "715",
+      "name": "Rotsandnollen",
+      "altitude": 2700,
+      "lat": 46.800669,
+      "lng": 8.344086,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "716",
+      "name": "Gross Spannort",
+      "altitude": 3198,
+      "lat": 46.786764,
+      "lng": 8.5246,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "717",
+      "name": "Titlis",
+      "altitude": 3238,
+      "lat": 46.772033,
+      "lng": 8.437781,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "718",
+      "name": "Fünffingerstöck",
+      "altitude": 2994,
+      "lat": 46.752167,
+      "lng": 8.436264,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "719",
+      "name": "Tällistock",
+      "altitude": 2580,
+      "lat": 46.745483,
+      "lng": 8.324883,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "720",
+      "name": "Sustenhorn",
+      "altitude": 3502,
+      "lat": 46.698925,
+      "lng": 8.455122,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "721",
+      "name": "Mährenhorn",
+      "altitude": 2923,
+      "lat": 46.691769,
+      "lng": 8.310831,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "722",
+      "name": "Schwarzhoren",
+      "altitude": 2928,
+      "lat": 46.686092,
+      "lng": 8.075564,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "723",
+      "name": "Eggstock",
+      "altitude": 3554,
+      "lat": 46.652181,
+      "lng": 8.418258,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "724",
+      "name": "Schneestock",
+      "altitude": 3608,
+      "lat": 46.647897,
+      "lng": 8.421997,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "725",
+      "name": "Ritzlihoren",
+      "altitude": 3277,
+      "lat": 46.632267,
+      "lng": 8.258861,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "726",
+      "name": "Schreckhorn",
+      "altitude": 4078,
+      "lat": 46.589886,
+      "lng": 8.118142,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "727",
+      "name": "Schwalmere",
+      "altitude": 2777,
+      "lat": 46.592903,
+      "lng": 7.816744,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "728",
+      "name": "Bächlistock",
+      "altitude": 3247,
+      "lat": 46.586572,
+      "lng": 8.239525,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "729",
+      "name": "Lauteraarhorn",
+      "altitude": 4042,
+      "lat": 46.583261,
+      "lng": 8.128358,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "730",
+      "name": "Eiger",
+      "altitude": 3967,
+      "lat": 46.5776,
+      "lng": 8.005286,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "731",
+      "name": "Mönch",
+      "altitude": 4107,
+      "lat": 46.558492,
+      "lng": 7.997272,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "732",
+      "name": "Gross Muttenhorn",
+      "altitude": 3099,
+      "lat": 46.54655,
+      "lng": 8.427147,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "733",
+      "name": "Jungfrau",
+      "altitude": 4158,
+      "lat": 46.536778,
+      "lng": 7.962589,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "734",
+      "name": "Gspaltenhorn",
+      "altitude": 3436,
+      "lat": 46.511589,
+      "lng": 7.827278,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "735",
+      "name": "Lagginhorn",
+      "altitude": 4010,
+      "lat": 46.15705,
+      "lng": 8.003078,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "736",
+      "name": "Albristhore",
+      "altitude": 2762,
+      "lat": 46.497067,
+      "lng": 7.489397,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "737",
+      "name": "Mittaghorn",
+      "altitude": 3892,
+      "lat": 46.498203,
+      "lng": 7.932608,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "738",
+      "name": "Grosshorn",
+      "altitude": 3756,
+      "lat": 46.486894,
+      "lng": 7.910264,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "739",
+      "name": "Breithorn",
+      "altitude": 3780,
+      "lat": 46.478522,
+      "lng": 7.8768,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "740",
+      "name": "Aletschhorn",
+      "altitude": 4193,
+      "lat": 46.465144,
+      "lng": 7.993669,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "741",
+      "name": "Schinhorn",
+      "altitude": 3797,
+      "lat": 46.451558,
+      "lng": 7.946622,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "742",
+      "name": "Geisshorn",
+      "altitude": 3740,
+      "lat": 46.441039,
+      "lng": 8.005636,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "743",
+      "name": "Altels",
+      "altitude": 3630,
+      "lat": 46.428931,
+      "lng": 7.678444,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "744",
+      "name": "Balmhorn",
+      "altitude": 3698,
+      "lat": 46.424922,
+      "lng": 7.693542,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "745",
+      "name": "Ofenhorn",
+      "altitude": 3236,
+      "lat": 46.386419,
+      "lng": 8.318628,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "746",
+      "name": "Breithorn",
+      "altitude": 3785,
+      "lat": 46.41895,
+      "lng": 7.893861,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "747",
+      "name": "Nesthorn",
+      "altitude": 3821,
+      "lat": 46.41315,
+      "lng": 7.925994,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "748",
+      "name": "Rinderhorn",
+      "altitude": 3449,
+      "lat": 46.41355,
+      "lng": 7.6543,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "749",
+      "name": "Wildstrubel",
+      "altitude": 3244,
+      "lat": 46.400311,
+      "lng": 7.528633,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "750",
+      "name": "Batnall",
+      "altitude": 2748,
+      "lat": 46.304144,
+      "lng": 8.440489,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "751",
+      "name": "Ferdenrothorn",
+      "altitude": 3180,
+      "lat": 46.408456,
+      "lng": 7.707242,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "752",
+      "name": "Bietschhorn",
+      "altitude": 3934,
+      "lat": 46.39155,
+      "lng": 7.850764,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "753",
+      "name": "Wilerhorn",
+      "altitude": 3307,
+      "lat": 46.378589,
+      "lng": 7.810572,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "754",
+      "name": "Blinnenhorn",
+      "altitude": 3374,
+      "lat": 46.425875,
+      "lng": 8.307708,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "755",
+      "name": "Cristallina",
+      "altitude": 2912,
+      "lat": 46.464742,
+      "lng": 8.536711,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "756",
+      "name": "Poncione di Braga",
+      "altitude": 2864,
+      "lat": 46.434411,
+      "lng": 8.543017,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "757",
+      "name": "Fletschhorn",
+      "altitude": 3985,
+      "lat": 46.167167,
+      "lng": 8.002483,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "758",
+      "name": "Les Diablons",
+      "altitude": 3609,
+      "lat": 46.14245,
+      "lng": 7.670911,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "759",
+      "name": "Grand Golliat",
+      "altitude": 3238,
+      "lat": 45.8592,
+      "lng": 7.101456,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "760",
+      "name": "Mont Gelé",
+      "altitude": 3518,
+      "lat": 45.904144,
+      "lng": 7.366069,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "761",
+      "name": "Le Sommet des Diablerets",
+      "altitude": 3210,
+      "lat": 46.303897,
+      "lng": 7.18905,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "762",
+      "name": "Vordere Loner",
+      "altitude": 3049,
+      "lat": 46.461956,
+      "lng": 7.600106,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "763",
+      "name": "Haute Cime",
+      "altitude": 3258,
+      "lat": 46.161083,
+      "lng": 6.923231,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "764",
+      "name": "Finsteraarhorn",
+      "altitude": 4274,
+      "lat": 46.537294,
+      "lng": 8.126167,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "765",
+      "name": "Wandfluhhorn",
+      "altitude": 2863,
+      "lat": 46.344636,
+      "lng": 8.464172,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "766",
+      "name": "Faulhorn",
+      "altitude": 2681,
+      "lat": 46.674831,
+      "lng": 7.999078,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "767",
+      "name": "Le Cheval Blanc",
+      "altitude": 2831,
+      "lat": 46.051933,
+      "lng": 6.872744,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "768",
+      "name": "Tour Salière",
+      "altitude": 3220,
+      "lat": 46.126867,
+      "lng": 6.924586,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "769",
+      "name": "Mont Rogneux",
+      "altitude": 3084,
+      "lat": 46.009522,
+      "lng": 7.230794,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "770",
+      "name": "Petit Combin",
+      "altitude": 3663,
+      "lat": 45.984025,
+      "lng": 7.267694,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "771",
+      "name": "Pointe de la Vouasson",
+      "altitude": 3490,
+      "lat": 46.07135,
+      "lng": 7.425442,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "772",
+      "name": "Grande Dent de Veisivi",
+      "altitude": 3418,
+      "lat": 46.050778,
+      "lng": 7.527914,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "773",
+      "name": "Grand Cornier",
+      "altitude": 3962,
+      "lat": 46.052106,
+      "lng": 7.611533,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "774",
+      "name": "Pollux",
+      "altitude": 4090,
+      "lat": 45.927769,
+      "lng": 7.785283,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "775",
+      "name": "Pizzo Massari",
+      "altitude": 2760,
+      "lat": 46.475942,
+      "lng": 8.683231,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "776",
+      "name": "Schenadüi",
+      "altitude": 2747,
+      "lat": 46.55245,
+      "lng": 8.748675,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "777",
+      "name": "Blüemlisalphorn",
+      "altitude": 3661,
+      "lat": 46.488764,
+      "lng": 7.771767,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "778",
+      "name": "Mont Ruan",
+      "altitude": 3057,
+      "lat": 46.124297,
+      "lng": 6.902961,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "779",
+      "name": "Bächistock",
+      "altitude": 2915,
+      "lat": 46.992889,
+      "lng": 8.989097,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "780",
+      "name": "Höch Windgällen",
+      "altitude": 2764,
+      "lat": 46.887931,
+      "lng": 8.791758,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "781",
+      "name": "Six Madun",
+      "altitude": 2928,
+      "lat": 46.622506,
+      "lng": 8.663675,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "782",
+      "name": "Wissensteinhorn",
+      "altitude": 2946,
+      "lat": 46.623428,
+      "lng": 9.228531,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "783",
+      "name": "Bärenhorn",
+      "altitude": 2929,
+      "lat": 46.575486,
+      "lng": 9.231972,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "784",
+      "name": "Pizzo Molare",
+      "altitude": 2586,
+      "lat": 46.488611,
+      "lng": 8.865061,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "785",
+      "name": "Piz Curvér",
+      "altitude": 2972,
+      "lat": 46.603425,
+      "lng": 9.4971,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "786",
+      "name": "Piz Fess",
+      "altitude": 2881,
+      "lat": 46.727619,
+      "lng": 9.288867,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "787",
+      "name": "Gross Düssi",
+      "altitude": 3256,
+      "lat": 46.791622,
+      "lng": 8.827681,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "788",
+      "name": "Piz Ela",
+      "altitude": 3339,
+      "lat": 46.601953,
+      "lng": 9.707631,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "789",
+      "name": "Piz Calderas",
+      "altitude": 3397,
+      "lat": 46.536439,
+      "lng": 9.695853,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "790",
+      "name": "Piz Platta",
+      "altitude": 3392,
+      "lat": 46.487061,
+      "lng": 9.561686,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "791",
+      "name": "Piz Lagrev",
+      "altitude": 3165,
+      "lat": 46.445697,
+      "lng": 9.723006,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "792",
+      "name": "Piz Duan",
+      "altitude": 3135,
+      "lat": 46.375697,
+      "lng": 9.5833,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "793",
+      "name": "Cima di Castello",
+      "altitude": 3379,
+      "lat": 46.301858,
+      "lng": 9.677464,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "794",
+      "name": "Pizzo Cengalo",
+      "altitude": 3369,
+      "lat": 46.294908,
+      "lng": 9.601953,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "795",
+      "name": "Tieralplistock",
+      "altitude": 3383,
+      "lat": 46.633103,
+      "lng": 8.374981,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "796",
+      "name": "Wetterhorn",
+      "altitude": 3690,
+      "lat": 46.638744,
+      "lng": 8.115539,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "797",
+      "name": "Hinterer Rhonestock",
+      "altitude": 3588,
+      "lat": 46.634183,
+      "lng": 8.419281,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "798",
+      "name": "Tiefenstock",
+      "altitude": 3515,
+      "lat": 46.627258,
+      "lng": 8.422361,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "799",
+      "name": "Dammastock",
+      "altitude": 3630,
+      "lat": 46.643475,
+      "lng": 8.421081,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "800",
+      "name": "Galenstock",
+      "altitude": 3586,
+      "lat": 46.612611,
+      "lng": 8.416958,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "801",
+      "name": "Grosses Grünhorn",
+      "altitude": 4044,
+      "lat": 46.531989,
+      "lng": 8.077722,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "802",
+      "name": "Oberaarhorn",
+      "altitude": 3630,
+      "lat": 46.5314,
+      "lng": 8.174497,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "803",
+      "name": "Doldenhorn",
+      "altitude": 3638,
+      "lat": 46.468531,
+      "lng": 7.734911,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "804",
+      "name": "Helsenhorn",
+      "altitude": 3272,
+      "lat": 46.304786,
+      "lng": 8.191617,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "805",
+      "name": "Bortelhorn",
+      "altitude": 3194,
+      "lat": 46.294561,
+      "lng": 8.125639,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "806",
+      "name": "Ober Rappehorn",
+      "altitude": 3176,
+      "lat": 46.410453,
+      "lng": 8.269917,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "807",
+      "name": "Wildhorn",
+      "altitude": 3250,
+      "lat": 46.354753,
+      "lng": 7.360808,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "808",
+      "name": "Schwarzhorn",
+      "altitude": 3201,
+      "lat": 46.216769,
+      "lng": 7.756806,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "809",
+      "name": "Gross Bigerhorn",
+      "altitude": 3626,
+      "lat": 46.145144,
+      "lng": 7.870367,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "810",
+      "name": "La Singla",
+      "altitude": 3714,
+      "lat": 45.94575,
+      "lng": 7.471908,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "811",
+      "name": "Pizzo Lucendro",
+      "altitude": 2963,
+      "lat": 46.538897,
+      "lng": 8.519472,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "812",
+      "name": "Basòdino",
+      "altitude": 3272,
+      "lat": 46.411558,
+      "lng": 8.468442,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "813",
+      "name": "Le Métailler",
+      "altitude": 3213,
+      "lat": 46.104044,
+      "lng": 7.360394,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "814",
+      "name": "Dent Blanche",
+      "altitude": 4357,
+      "lat": 46.034253,
+      "lng": 7.611922,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "815",
+      "name": "Mont Collon",
+      "altitude": 3637,
+      "lat": 45.977069,
+      "lng": 7.507444,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "816",
+      "name": "Mont Blanc de Cheilon",
+      "altitude": 3870,
+      "lat": 45.993147,
+      "lng": 7.417344,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "817",
+      "name": "Pigne d'Arolla",
+      "altitude": 3790,
+      "lat": 45.991383,
+      "lng": 7.455053,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "818",
+      "name": "Le Pleureur",
+      "altitude": 3704,
+      "lat": 46.016242,
+      "lng": 7.369136,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "819",
+      "name": "Bec d'Epicoune",
+      "altitude": 3531,
+      "lat": 45.914669,
+      "lng": 7.422339,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "820",
+      "name": "Combin de Grafeneire",
+      "altitude": 4314,
+      "lat": 45.937586,
+      "lng": 7.299219,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "821",
+      "name": "Pointe d'Otemma",
+      "altitude": 3403,
+      "lat": 45.943486,
+      "lng": 7.397786,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "822",
+      "name": "Mont Fort",
+      "altitude": 3329,
+      "lat": 46.08055,
+      "lng": 7.3187,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "823",
+      "name": "La Rosablanche",
+      "altitude": 3336,
+      "lat": 46.060503,
+      "lng": 7.354156,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "824",
+      "name": "Dent du Perroc",
+      "altitude": 3676,
+      "lat": 46.039428,
+      "lng": 7.523178,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "825",
+      "name": "Aiguille de la Tsa",
+      "altitude": 3668,
+      "lat": 46.021497,
+      "lng": 7.522258,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "826",
+      "name": "Ober Gabelhorn",
+      "altitude": 4063,
+      "lat": 46.038542,
+      "lng": 7.668042,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "827",
+      "name": "Balfrin",
+      "altitude": 3796,
+      "lat": 46.135144,
+      "lng": 7.880256,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "828",
+      "name": "Weissmies",
+      "altitude": 4017,
+      "lat": 46.127653,
+      "lng": 8.011994,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "829",
+      "name": "Rimpfischhorn",
+      "altitude": 4199,
+      "lat": 46.023114,
+      "lng": 7.883925,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "830",
+      "name": "Strahlhorn",
+      "altitude": 4190,
+      "lat": 46.013208,
+      "lng": 7.901983,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "831",
+      "name": "Stockhorn (VS)",
+      "altitude": 3532,
+      "lat": 45.985619,
+      "lng": 7.837856,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "832",
+      "name": "Breithorn",
+      "altitude": 4164,
+      "lat": 45.940997,
+      "lng": 7.74775,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "833",
+      "name": "Bishorn",
+      "altitude": 4151,
+      "lat": 46.117908,
+      "lng": 7.714953,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "834",
+      "name": "Brunegghorn",
+      "altitude": 3832,
+      "lat": 46.1259,
+      "lng": 7.745772,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "835",
+      "name": "Weisshorn",
+      "altitude": 4506,
+      "lat": 46.101244,
+      "lng": 7.716064,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "836",
+      "name": "Üssers Barrhorn",
+      "altitude": 3610,
+      "lat": 46.155917,
+      "lng": 7.734075,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "837",
+      "name": "Inners Barrhorn",
+      "altitude": 3583,
+      "lat": 46.149703,
+      "lng": 7.7373,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "838",
+      "name": "Täschhorn",
+      "altitude": 4491,
+      "lat": 46.083419,
+      "lng": 7.857169,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "839",
+      "name": "Dom",
+      "altitude": 4547,
+      "lat": 46.094019,
+      "lng": 7.858828,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "840",
+      "name": "Nadelhorn",
+      "altitude": 4327,
+      "lat": 46.108886,
+      "lng": 7.864053,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "841",
+      "name": "Lenzspitze",
+      "altitude": 4294,
+      "lat": 46.104533,
+      "lng": 7.868592,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "842",
+      "name": "Zinalrothorn",
+      "altitude": 4221,
+      "lat": 46.064828,
+      "lng": 7.690114,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "843",
+      "name": "Alphubel",
+      "altitude": 4206,
+      "lat": 46.062867,
+      "lng": 7.863831,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "844",
+      "name": "Allalinhorn",
+      "altitude": 4027,
+      "lat": 46.046089,
+      "lng": 7.894589,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "845",
+      "name": "Stellihorn",
+      "altitude": 3436,
+      "lat": 46.036244,
+      "lng": 8.000967,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "846",
+      "name": "Rheinwaldhorn",
+      "altitude": 3402,
+      "lat": 46.493744,
+      "lng": 9.040203,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "847",
+      "name": "Pizzo Campo Tencia",
+      "altitude": 3072,
+      "lat": 46.429761,
+      "lng": 8.725897,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "848",
+      "name": "Monte Zucchero",
+      "altitude": 2735,
+      "lat": 46.35415,
+      "lng": 8.714131,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "849",
+      "name": "Pizzo del Sole",
+      "altitude": 2773,
+      "lat": 46.525064,
+      "lng": 8.767892,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "850",
+      "name": "Lorenzhorn",
+      "altitude": 3048,
+      "lat": 46.526719,
+      "lng": 9.127892,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "851",
+      "name": "Piz Grisch",
+      "altitude": 3060,
+      "lat": 46.531208,
+      "lng": 9.472881,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "852",
+      "name": "Pizzo Tambo",
+      "altitude": 3279,
+      "lat": 46.496978,
+      "lng": 9.283303,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "853",
+      "name": "Zapporthorn",
+      "altitude": 3155,
+      "lat": 46.479628,
+      "lng": 9.112778,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "854",
+      "name": "Pizz Gallagiun",
+      "altitude": 3107,
+      "lat": 46.366914,
+      "lng": 9.4877,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "855",
+      "name": "Torent Alto",
+      "altitude": 2956,
+      "lat": 46.3449,
+      "lng": 9.073683,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "856",
+      "name": "Grosses Wannenhorn",
+      "altitude": 3906,
+      "lat": 46.493844,
+      "lng": 8.097114,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "857",
+      "name": "Dufourspitze",
+      "altitude": 4634,
+      "lat": 45.936919,
+      "lng": 7.866753,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "858",
+      "name": "Gross Windgällen",
+      "altitude": 3187,
+      "lat": 46.807253,
+      "lng": 8.732092,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "859",
+      "name": "Clariden",
+      "altitude": 3267,
+      "lat": 46.842031,
+      "lng": 8.871231,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "860",
+      "name": "Gross Schärhorn",
+      "altitude": 3297,
+      "lat": 46.826953,
+      "lng": 8.829475,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "861",
+      "name": "Hausstock",
+      "altitude": 3158,
+      "lat": 46.874292,
+      "lng": 9.065619,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "862",
+      "name": "Piz Russein",
+      "altitude": 3613,
+      "lat": 46.811183,
+      "lng": 8.914639,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "863",
+      "name": "Glarner Tödi",
+      "altitude": 3571,
+      "lat": 46.810431,
+      "lng": 8.92195,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "864",
+      "name": "Bristen",
+      "altitude": 3073,
+      "lat": 46.736892,
+      "lng": 8.681353,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "865",
+      "name": "Piz Giuv",
+      "altitude": 3096,
+      "lat": 46.701844,
+      "lng": 8.692581,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "866",
+      "name": "Oberalpstock",
+      "altitude": 3328,
+      "lat": 46.742708,
+      "lng": 8.769458,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "867",
+      "name": "Ortstock",
+      "altitude": 2717,
+      "lat": 46.925383,
+      "lng": 8.9482,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "868",
+      "name": "Piz Gannaretsch",
+      "altitude": 3040,
+      "lat": 46.612019,
+      "lng": 8.786433,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "869",
+      "name": "Scopi",
+      "altitude": 3190,
+      "lat": 46.571706,
+      "lng": 8.83,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "870",
+      "name": "Piz Rondadura",
+      "altitude": 3016,
+      "lat": 46.576208,
+      "lng": 8.750756,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "871",
+      "name": "Piz Blas",
+      "altitude": 3019,
+      "lat": 46.577069,
+      "lng": 8.727986,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "872",
+      "name": "Piz Ravetsch",
+      "altitude": 3007,
+      "lat": 46.584308,
+      "lng": 8.703189,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "873",
+      "name": "Pizzo Centrale",
+      "altitude": 2999,
+      "lat": 46.57815,
+      "lng": 8.614939,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "874",
+      "name": "Piz Medel",
+      "altitude": 3210,
+      "lat": 46.618247,
+      "lng": 8.911164,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "875",
+      "name": "Piz Terri",
+      "altitude": 3149,
+      "lat": 46.600022,
+      "lng": 9.034072,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "876",
+      "name": "Piz Aul",
+      "altitude": 3121,
+      "lat": 46.622781,
+      "lng": 9.125056,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "877",
+      "name": "Piz Beverin",
+      "altitude": 2998,
+      "lat": 46.652553,
+      "lng": 9.357919,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "878",
+      "name": "Grosses Fiescherhorn",
+      "altitude": 4049,
+      "lat": 46.551328,
+      "lng": 8.061486,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "879",
+      "name": "Bifertenstock",
+      "altitude": 3419,
+      "lat": 46.804192,
+      "lng": 8.957494,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "880",
+      "name": "Vorderer Rhonestock",
+      "altitude": 3566,
+      "lat": 46.631411,
+      "lng": 8.419803,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "881",
+      "name": "Pizzo d'Andolla",
+      "altitude": 3656,
+      "lat": 46.100767,
+      "lng": 8.034756,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "882",
+      "name": "Castor",
+      "altitude": 4226,
+      "lat": 45.920861,
+      "lng": 7.793206,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "883",
+      "name": "Aiguilles du Tour",
+      "altitude": 3540,
+      "lat": 45.995322,
+      "lng": 7.011147,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "884",
+      "name": "Aiguille d'Argentière",
+      "altitude": 3897,
+      "lat": 45.959789,
+      "lng": 7.020242,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "885",
+      "name": "Aiguille de l'A Neuve",
+      "altitude": 3753,
+      "lat": 45.952544,
+      "lng": 7.036728,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "886",
+      "name": "Pointe Kurz",
+      "altitude": 3680,
+      "lat": 45.938336,
+      "lng": 7.035708,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "887",
+      "name": "Pointe Morin",
+      "altitude": 3590,
+      "lat": 45.943506,
+      "lng": 7.03665,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "888",
+      "name": "Tour Noir",
+      "altitude": 3836,
+      "lat": 45.948875,
+      "lng": 7.037469,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "889",
+      "name": "Mont Dolent",
+      "altitude": 3820,
+      "lat": 45.921967,
+      "lng": 7.046147,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "890",
+      "name": "Mont Brulé",
+      "altitude": 3578,
+      "lat": 45.954897,
+      "lng": 7.538514,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "891",
+      "name": "Dent d'Hérens",
+      "altitude": 4174,
+      "lat": 45.969936,
+      "lng": 7.60505,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "892",
+      "name": "Matterhorn",
+      "altitude": 4478,
+      "lat": 45.976411,
+      "lng": 7.658603,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "893",
+      "name": "Mont Vélan",
+      "altitude": 3726,
+      "lat": 45.891742,
+      "lng": 7.251647,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "894",
+      "name": "Grande Tête de By",
+      "altitude": 3587,
+      "lat": 45.919486,
+      "lng": 7.298306,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "895",
+      "name": "Monte Leone",
+      "altitude": 3553,
+      "lat": 46.249444,
+      "lng": 8.110192,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "896",
+      "name": "Pizzo Cervandone",
+      "altitude": 3211,
+      "lat": 46.324217,
+      "lng": 8.223192,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "897",
+      "name": "Pizzo Quadro",
+      "altitude": 2793,
+      "lat": 46.298325,
+      "lng": 8.42775,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "898",
+      "name": "Dunantspitze",
+      "altitude": 4632,
+      "lat": 45.936875,
+      "lng": 7.867769,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "899",
+      "name": "Liskamm Ostgipfel",
+      "altitude": 4533,
+      "lat": 45.922475,
+      "lng": 7.835581,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "900",
+      "name": "Liskamm Westgipfel",
+      "altitude": 4479,
+      "lat": 45.926506,
+      "lng": 7.823297,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1009",
+      "name": "Chäserrugg",
+      "altitude": 2261,
+      "lat": 47.154797,
+      "lng": 9.312314,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1010",
+      "name": "Hoher Kasten",
+      "altitude": 1793,
+      "lat": 47.283692,
+      "lng": 9.485014,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1011",
+      "name": "Kronberg",
+      "altitude": 1663,
+      "lat": 47.29145,
+      "lng": 9.329344,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1012",
+      "name": "Vrenelisgärtli",
+      "altitude": 2905,
+      "lat": 47.007794,
+      "lng": 9.016828,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1013",
+      "name": "Rigi Kulm",
+      "altitude": 1797,
+      "lat": 47.056714,
+      "lng": 8.485303,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1017",
+      "name": "Speer",
+      "altitude": 1950,
+      "lat": 47.185808,
+      "lng": 9.122806,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1021",
+      "name": "Pilatus Esel",
+      "altitude": 2118,
+      "lat": 46.97915,
+      "lng": 8.256178,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1022",
+      "name": "Stanserhorn",
+      "altitude": 1897,
+      "lat": 46.929744,
+      "lng": 8.340264,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1024",
+      "name": "Gross Mythen",
+      "altitude": 1898,
+      "lat": 47.029925,
+      "lng": 8.688758,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1025",
+      "name": "Niederhorn",
+      "altitude": 1963,
+      "lat": 46.711661,
+      "lng": 7.776764,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1026",
+      "name": "Brienzer Rothorn",
+      "altitude": 2348,
+      "lat": 46.787092,
+      "lng": 8.046925,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1027",
+      "name": "Stockhorn (BE)",
+      "altitude": 2190,
+      "lat": 46.693956,
+      "lng": 7.537292,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1028",
+      "name": "Schilthorn",
+      "altitude": 2969,
+      "lat": 46.557281,
+      "lng": 7.834914,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1029",
+      "name": "Niesen",
+      "altitude": 2362,
+      "lat": 46.646194,
+      "lng": 7.652372,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1030",
+      "name": "Hohgant",
+      "altitude": 2164,
+      "lat": 46.786461,
+      "lng": 7.893292,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1031",
+      "name": "Napf",
+      "altitude": 1406,
+      "lat": 47.003614,
+      "lng": 7.940014,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1033",
+      "name": "Hasenmatt",
+      "altitude": 1444,
+      "lat": 47.242158,
+      "lng": 7.450917,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1034",
+      "name": "Chasseral",
+      "altitude": 1606,
+      "lat": 47.133044,
+      "lng": 7.059333,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1035",
+      "name": "Alvier",
+      "altitude": 2341,
+      "lat": 47.109758,
+      "lng": 9.414836,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1036",
+      "name": "Poncione di Tremorgio",
+      "altitude": 2668,
+      "lat": 46.482717,
+      "lng": 8.700353,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1037",
+      "name": "Pizzo Taneda",
+      "altitude": 2668,
+      "lat": 46.558411,
+      "lng": 8.702378,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1038",
+      "name": "Pizzo Prèdelp",
+      "altitude": 2585,
+      "lat": 46.521983,
+      "lng": 8.8019,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1039",
+      "name": "Poncione d'Alnasca",
+      "altitude": 2301,
+      "lat": 46.292139,
+      "lng": 8.823681,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1040",
+      "name": "Pécian",
+      "altitude": 2662,
+      "lat": 46.521461,
+      "lng": 8.753844,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1041",
+      "name": "Madom Gröss",
+      "altitude": 2741,
+      "lat": 46.366694,
+      "lng": 8.831261,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1042",
+      "name": "Madom da Sgióf",
+      "altitude": 2265,
+      "lat": 46.267978,
+      "lng": 8.776014,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1043",
+      "name": "Pizzo Vogorno",
+      "altitude": 2442,
+      "lat": 46.239689,
+      "lng": 8.892936,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1044",
+      "name": "Poncione di Piotta",
+      "altitude": 2439,
+      "lat": 46.253794,
+      "lng": 8.924233,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1045",
+      "name": "Sassariente",
+      "altitude": 1767,
+      "lat": 46.204139,
+      "lng": 8.895953,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1046",
+      "name": "Fibbia",
+      "altitude": 2739,
+      "lat": 46.542778,
+      "lng": 8.547467,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1047",
+      "name": "Sasso della Boggia",
+      "altitude": 2066,
+      "lat": 46.508078,
+      "lng": 8.612208,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1048",
+      "name": "Pizzo Malora",
+      "altitude": 2639,
+      "lat": 46.383767,
+      "lng": 8.588036,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1049",
+      "name": "Monte Generoso",
+      "altitude": 1700,
+      "lat": 45.931325,
+      "lng": 9.019925,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1050",
+      "name": "Monte Tamaro",
+      "altitude": 1962,
+      "lat": 46.103903,
+      "lng": 8.866,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1051",
+      "name": "Monte Lema",
+      "altitude": 1619,
+      "lat": 46.040553,
+      "lng": 8.832692,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1052",
+      "name": "Gazzirola",
+      "altitude": 2115,
+      "lat": 46.117958,
+      "lng": 9.072403,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1053",
+      "name": "Camoghé",
+      "altitude": 2227,
+      "lat": 46.1349,
+      "lng": 9.064183,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1054",
+      "name": "Gridone",
+      "altitude": 2186,
+      "lat": 46.123369,
+      "lng": 8.647947,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1055",
+      "name": "Pizzo di Claro",
+      "altitude": 2727,
+      "lat": 46.296067,
+      "lng": 9.055642,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1056",
+      "name": "Cimetta",
+      "altitude": 1671,
+      "lat": 46.200906,
+      "lng": 8.790983,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1057",
+      "name": "Matro",
+      "altitude": 2170,
+      "lat": 46.410217,
+      "lng": 8.924567,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1059",
+      "name": "Cima del Simano",
+      "altitude": 2580,
+      "lat": 46.462514,
+      "lng": 8.971917,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1060",
+      "name": "Mischabelhütte AACZ",
+      "altitude": 3340,
+      "lat": 46.109428,
+      "lng": 7.888853,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1061",
+      "name": "Windgällenhütte AACZ",
+      "altitude": 2032,
+      "lat": 46.790231,
+      "lng": 8.755692,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1062",
+      "name": "Bifertenhütte AACBs",
+      "altitude": 2482,
+      "lat": 46.814508,
+      "lng": 9.026514,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1063",
+      "name": "Gruebenhütte AACBs",
+      "altitude": 2512,
+      "lat": 46.605889,
+      "lng": 8.259322,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1064",
+      "name": "Bietschhornhütte AACB",
+      "altitude": 2565,
+      "lat": 46.395008,
+      "lng": 7.817017,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1065",
+      "name": "Engelhornhütte AACB",
+      "altitude": 1901,
+      "lat": 46.683139,
+      "lng": 8.172836,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1066",
+      "name": "Schmadrihütte AACB",
+      "altitude": 2262,
+      "lat": 46.49915,
+      "lng": 7.892308,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1067",
+      "name": "Cabane des Aiguilles Rouges ACAR ",
+      "altitude": 2810,
+      "lat": 46.056386,
+      "lng": 7.457494,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1068",
+      "name": "Capanna Adula UTOE",
+      "altitude": 2394,
+      "lat": 46.495425,
+      "lng": 9.007675,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1069",
+      "name": "Rifugio Al Legn AMB",
+      "altitude": 1785,
+      "lat": 46.122386,
+      "lng": 8.667144,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1070",
+      "name": "Capanna Albagno UTOE",
+      "altitude": 1870,
+      "lat": 46.222514,
+      "lng": 8.956386,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1071",
+      "name": "Capanna Barone SEV",
+      "altitude": 2172,
+      "lat": 46.395689,
+      "lng": 8.749008,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1072",
+      "name": "Capanna Borgna SEV",
+      "altitude": 1912,
+      "lat": 46.229542,
+      "lng": 8.925067,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1073",
+      "name": "Capanna Bovarina UTOE",
+      "altitude": 1870,
+      "lat": 46.559983,
+      "lng": 8.888894,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1074",
+      "name": "Capanna Brogoldone AACB",
+      "altitude": 1910,
+      "lat": 46.262778,
+      "lng": 9.063233,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1075",
+      "name": "Capanna Cadagno SAT",
+      "altitude": 1987,
+      "lat": 46.546539,
+      "lng": 8.719669,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1076",
+      "name": "Capanna Cava UTOE",
+      "altitude": 2066,
+      "lat": 46.357447,
+      "lng": 9.030331,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1077",
+      "name": "Capanna Cògnora SEV",
+      "altitude": 1938,
+      "lat": 46.376486,
+      "lng": 8.81315,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1078",
+      "name": "Capanna Cornavosa SEV",
+      "altitude": 1991,
+      "lat": 46.27925,
+      "lng": 8.8975,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1079",
+      "name": "Capanna Dötra SAT",
+      "altitude": 1748,
+      "lat": 46.531536,
+      "lng": 8.879594,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1080",
+      "name": "Capanna d'Efra SEV",
+      "altitude": 2039,
+      "lat": 46.338497,
+      "lng": 8.851417,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1081",
+      "name": "Rifugio Fiorasca SAV",
+      "altitude": 2086,
+      "lat": 46.379508,
+      "lng": 8.603283,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1082",
+      "name": "Rifugio Gana Rossa UTOE",
+      "altitude": 2270,
+      "lat": 46.506361,
+      "lng": 8.845761,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1083",
+      "name": "Rifugio Garzonera  SAT",
+      "altitude": 1973,
+      "lat": 46.499047,
+      "lng": 8.661483,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1084",
+      "name": "Capanna Gesero UTOE",
+      "altitude": 2001,
+      "lat": 46.177628,
+      "lng": 9.13145,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1085",
+      "name": "Capanna Gorda SANDA",
+      "altitude": 1800,
+      "lat": 46.498069,
+      "lng": 8.91095,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1086",
+      "name": "Capanna Grossalp UTOE",
+      "altitude": 1907,
+      "lat": 46.316511,
+      "lng": 8.471186,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1087",
+      "name": "Capanna Leit SAT",
+      "altitude": 2257,
+      "lat": 46.466928,
+      "lng": 8.718828,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1089",
+      "name": "Capanna Pian d'Alpe UTOE",
+      "altitude": 1764,
+      "lat": 46.3946,
+      "lng": 8.938572,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1090",
+      "name": "Rifugio Piano delle Creste SAV",
+      "altitude": 2108,
+      "lat": 46.391036,
+      "lng": 8.486906,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1091",
+      "name": "Capanna Poncione di Braga UTOE",
+      "altitude": 2000,
+      "lat": 46.428808,
+      "lng": 8.572336,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1092",
+      "name": "Capanna Prödor UTOE",
+      "altitude": 1740,
+      "lat": 46.498472,
+      "lng": 8.814028,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1093",
+      "name": "Capanna Quarnèi SABB",
+      "altitude": 2107,
+      "lat": 46.472939,
+      "lng": 9.023303,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1094",
+      "name": "Capanna Salèi SEO",
+      "altitude": 1777,
+      "lat": 46.220908,
+      "lng": 8.562433,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1095",
+      "name": "Capanna Scaletta SAT",
+      "altitude": 2205,
+      "lat": 46.607628,
+      "lng": 8.940436,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1096",
+      "name": "Capanna Sovèltra SAV",
+      "altitude": 1534,
+      "lat": 46.406017,
+      "lng": 8.711019,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1097",
+      "name": "Rifugio Sponda SAT",
+      "altitude": 1997,
+      "lat": 46.417478,
+      "lng": 8.785958,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1098",
+      "name": "Capanna Tamaro UTOE",
+      "altitude": 1867,
+      "lat": 46.108247,
+      "lng": 8.881028,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1099",
+      "name": "Capanna Tremorgio",
+      "altitude": 1849,
+      "lat": 46.481661,
+      "lng": 8.724931,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1100",
+      "name": "Capanna Monte Bar CAS",
+      "altitude": 1608,
+      "lat": 46.100036,
+      "lng": 9.013808,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1101",
+      "name": "Cabane de la Videmanette",
+      "altitude": 2132,
+      "lat": 46.458858,
+      "lng": 7.203903,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1102",
+      "name": "Cabane des Audannes",
+      "altitude": 2506,
+      "lat": 46.343431,
+      "lng": 7.384056,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1103",
+      "name": "Lodge Matterhorn Glacier Paradise",
+      "altitude": 3826,
+      "lat": 45.937481,
+      "lng": 7.729206,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1104",
+      "name": "Cabane du Fenestral",
+      "altitude": 2440,
+      "lat": 46.188953,
+      "lng": 7.100617,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1105",
+      "name": "Cabane FXB Panossière",
+      "altitude": 2641,
+      "lat": 45.998714,
+      "lng": 7.299781,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1106",
+      "name": "Lötschenpasshütte",
+      "altitude": 2690,
+      "lat": 46.416308,
+      "lng": 7.71685,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1107",
+      "name": "Col de Cou",
+      "altitude": 1919,
+      "lat": 46.150253,
+      "lng": 6.792856,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1108",
+      "name": "Grand Col Ferret",
+      "altitude": 2536,
+      "lat": 45.888972,
+      "lng": 7.077875,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1109",
+      "name": "Bella Tola",
+      "altitude": 3015,
+      "lat": 46.239061,
+      "lng": 7.653703,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1110",
+      "name": "Rochers de Naye",
+      "altitude": 2042,
+      "lat": 46.4318,
+      "lng": 6.976011,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1111",
+      "name": "Vanil Noir",
+      "altitude": 2389,
+      "lat": 46.528456,
+      "lng": 7.148328,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1112",
+      "name": "Eggishorn",
+      "altitude": 2925,
+      "lat": 46.431364,
+      "lng": 8.094231,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1113",
+      "name": "Tour d'Aï",
+      "altitude": 2330,
+      "lat": 46.372108,
+      "lng": 7.001981,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1115",
+      "name": "Pas de Lona",
+      "altitude": 2787,
+      "lat": 46.155731,
+      "lng": 7.519917,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1116",
+      "name": "Col du Jorat",
+      "altitude": 2212,
+      "lat": 46.150281,
+      "lng": 6.985492,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1117",
+      "name": "Le Luisin",
+      "altitude": 2786,
+      "lat": 46.120831,
+      "lng": 6.969942,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1118",
+      "name": "Mont Fourchon",
+      "altitude": 2901,
+      "lat": 45.868303,
+      "lng": 7.133111,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1119",
+      "name": "Le Toûno",
+      "altitude": 3018,
+      "lat": 46.20745,
+      "lng": 7.650014,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1120",
+      "name": "Col de Seron",
+      "altitude": 2152,
+      "lat": 46.380317,
+      "lng": 7.167317,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1121",
+      "name": "Grande Fourche",
+      "altitude": 3611,
+      "lat": 45.976328,
+      "lng": 7.021203,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1122",
+      "name": "Corne de Sorebois",
+      "altitude": 2895,
+      "lat": 46.150797,
+      "lng": 7.586592,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1123",
+      "name": "Pas de Maimbré",
+      "altitude": 2380,
+      "lat": 46.314472,
+      "lng": 7.381956,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1124",
+      "name": "Les Cornettes de Bise",
+      "altitude": 2431,
+      "lat": 46.332589,
+      "lng": 6.784586,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1125",
+      "name": "Creux du Van",
+      "altitude": 1421,
+      "lat": 46.934853,
+      "lng": 6.72055,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1126",
+      "name": "Pointe de la Plaine Morte",
+      "altitude": 2937,
+      "lat": 46.370647,
+      "lng": 7.486544,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1127",
+      "name": "Fiescheralp ",
+      "altitude": 2218,
+      "lat": 46.412114,
+      "lng": 8.102608,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1128",
+      "name": "Pointe des Mossettes",
+      "altitude": 2277,
+      "lat": 46.190594,
+      "lng": 6.816197,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1129",
+      "name": "Piano della Parete SAT",
+      "altitude": 2720,
+      "lat": 46.438275,
+      "lng": 9.079464,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1130",
+      "name": "La Foilleuse",
+      "altitude": 1815,
+      "lat": 46.225108,
+      "lng": 6.861219,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1131",
+      "name": "Seileggu-Grat",
+      "altitude": 2000,
+      "lat": 46.335639,
+      "lng": 7.807064,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1133",
+      "name": "Refuge des Dents du Midi",
+      "altitude": 2886,
+      "lat": 46.164303,
+      "lng": 6.939039,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1134",
+      "name": "Grande Dent de Morcles",
+      "altitude": 2969,
+      "lat": 46.199317,
+      "lng": 7.075483,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1135",
+      "name": "Grand Chavalard",
+      "altitude": 2901,
+      "lat": 46.178872,
+      "lng": 7.113097,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1136",
+      "name": "Crêta Besse",
+      "altitude": 2702,
+      "lat": 46.306867,
+      "lng": 7.354556,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1137",
+      "name": "Folluhorn",
+      "altitude": 2656,
+      "lat": 46.320964,
+      "lng": 8.066336,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1138",
+      "name": "Gibidumpass",
+      "altitude": 2201,
+      "lat": 46.254808,
+      "lng": 7.938689,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1139",
+      "name": "Pizzo Straciugo",
+      "altitude": 2713,
+      "lat": 46.132194,
+      "lng": 8.120733,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1140",
+      "name": "La Dôle",
+      "altitude": 1677,
+      "lat": 46.425414,
+      "lng": 6.099622,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1141",
+      "name": "Pic Chaussy",
+      "altitude": 2351,
+      "lat": 46.377103,
+      "lng": 7.112725,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1142",
+      "name": "Le Tarent",
+      "altitude": 2548,
+      "lat": 46.382067,
+      "lng": 7.147533,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1143",
+      "name": "Le Chamossaire (VD)",
+      "altitude": 2112,
+      "lat": 46.326847,
+      "lng": 7.061211,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1144",
+      "name": "Mont Tendre",
+      "altitude": 1679,
+      "lat": 46.594928,
+      "lng": 6.310042,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1145",
+      "name": "Le Suchet - Rances",
+      "altitude": 1588,
+      "lat": 46.772444,
+      "lng": 6.466294,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1146",
+      "name": "Le Chasseron",
+      "altitude": 1607,
+      "lat": 46.8518,
+      "lng": 6.538219,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1147",
+      "name": "Gummfluh",
+      "altitude": 2458,
+      "lat": 46.440628,
+      "lng": 7.194961,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1149",
+      "name": "Le Moléson",
+      "altitude": 2002,
+      "lat": 46.548819,
+      "lng": 7.017094,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1150",
+      "name": "Dent de Lys",
+      "altitude": 2014,
+      "lat": 46.507703,
+      "lng": 7.002992,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1151",
+      "name": "Patraflon",
+      "altitude": 1916,
+      "lat": 46.639519,
+      "lng": 7.241592,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1152",
+      "name": "Ebenalp (AI)",
+      "altitude": 1640,
+      "lat": 47.282894,
+      "lng": 9.410661,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1154",
+      "name": "Mutteristock",
+      "altitude": 2294,
+      "lat": 47.048711,
+      "lng": 8.942808,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1155",
+      "name": "Rautispitz",
+      "altitude": 2283,
+      "lat": 47.071253,
+      "lng": 9.028394,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1156",
+      "name": "Wildspitz (ZG)",
+      "altitude": 1580,
+      "lat": 47.084483,
+      "lng": 8.577614,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1157",
+      "name": "Bündihore / Honiese",
+      "altitude": 2452,
+      "lat": 46.577397,
+      "lng": 7.583117,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1159",
+      "name": "Wistätthore",
+      "altitude": 2362,
+      "lat": 46.454178,
+      "lng": 7.386206,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1160",
+      "name": "Capanna Osola",
+      "altitude": 1418,
+      "lat": 46.327503,
+      "lng": 8.704408,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1161",
+      "name": "Al Ross da Ribia",
+      "altitude": 2541,
+      "lat": 46.261094,
+      "lng": 8.529575,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1162",
+      "name": "Capanna Ribia",
+      "altitude": 1997,
+      "lat": 46.251319,
+      "lng": 8.541597,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1163",
+      "name": "Pizzo Peloso",
+      "altitude": 2063,
+      "lat": 46.2312,
+      "lng": 8.649544,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1164",
+      "name": "Salmone",
+      "altitude": 1560,
+      "lat": 46.209514,
+      "lng": 8.706964,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1165",
+      "name": "Pizzo Ruscada",
+      "altitude": 2004,
+      "lat": 46.177361,
+      "lng": 8.592722,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1166",
+      "name": "Piz Uccello",
+      "altitude": 2724,
+      "lat": 46.499997,
+      "lng": 9.198781,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1168",
+      "name": "Rifugio Alpe Masnee",
+      "altitude": 2063,
+      "lat": 46.276369,
+      "lng": 8.762586,
+      "station": null,
+      "distanceKm": null
+    },
+    {
+      "id": "1169",
+      "name": "Poncione Rosso",
+      "altitude": 2506,
+      "lat": 46.299244,
+      "lng": 8.911531,
+      "station": null,
+      "distanceKm": null
+    }
+  ],
+  "available": [
+    "33",
+    "35",
+    "43",
+    "74",
+    "273",
+    "866",
+    "867",
+    "4271",
+    "381800",
+    "382200",
+    "392000",
+    "601000",
+    "635600",
+    "639000",
+    "435",
+    "662",
+    "711",
+    "866",
+    "1013",
+    "1022",
+    "1029",
+    "1103",
+    "1110",
+    "1112"
+  ],
+  "smnStations": [
+    "ABO",
+    "AEG",
+    "AIG",
+    "ALT",
+    "AND",
+    "ANT",
+    "ARH",
+    "ARO",
+    "ATT",
+    "BAN",
+    "BAS",
+    "BEH",
+    "BER",
+    "BEZ",
+    "BIA",
+    "BIE",
+    "BIN",
+    "BIV",
+    "BIZ",
+    "BLA",
+    "BOL",
+    "BOU",
+    "BRL",
+    "BRZ",
+    "BUF",
+    "BUS",
+    "CDF",
+    "CDM",
+    "CEV",
+    "CGI",
+    "CHA",
+    "CHB",
+    "CHD",
+    "CHM",
+    "CHU",
+    "CHZ",
+    "CIM",
+    "CMA",
+    "COM",
+    "COV",
+    "COY",
+    "CRM",
+    "DAV",
+    "DEM",
+    "DIA",
+    "DIS",
+    "DOL",
+    "EBK",
+    "EGH",
+    "EGO",
+    "EIN",
+    "ELM",
+    "ENG",
+    "EVI",
+    "EVO",
+    "FAH",
+    "FLU",
+    "FRE",
+    "FRU",
+    "GEN",
+    "GES",
+    "GIH",
+    "GLA",
+    "GOE",
+    "GOR",
+    "GOS",
+    "GRA",
+    "GRC",
+    "GRE",
+    "GRH",
+    "GRO",
+    "GSB",
+    "GUE",
+    "GUT",
+    "GVE",
+    "HAI",
+    "HLL",
+    "HOE",
+    "ILZ",
+    "INT",
+    "JUN",
+    "KLO",
+    "KOP",
+    "LAC",
+    "LAE",
+    "LAG",
+    "LAT",
+    "LEI",
+    "LUG",
+    "LUZ",
+    "MAG",
+    "MAH",
+    "MAR",
+    "MAS",
+    "MER",
+    "MLJ",
+    "MLS",
+    "MOA",
+    "MOB",
+    "MOE",
+    "MTE",
+    "MTR",
+    "MUB",
+    "MVE",
+    "NAP",
+    "NAS",
+    "NEU",
+    "OBR",
+    "ORO",
+    "OTL",
+    "PAY",
+    "PFA",
+    "PIL",
+    "PIO",
+    "PLF",
+    "PMA",
+    "PRE",
+    "PSI",
+    "PUY",
+    "QUI",
+    "RAG",
+    "REH",
+    "ROB",
+    "ROE",
+    "RUE",
+    "SAE",
+    "SAG",
+    "SAM",
+    "SBE",
+    "SBO",
+    "SCM",
+    "SCU",
+    "SHA",
+    "SIA",
+    "SIM",
+    "SIO",
+    "SMA",
+    "SMM",
+    "SPF",
+    "SRS",
+    "STC",
+    "STG",
+    "STK",
+    "TAE",
+    "THU",
+    "TIT",
+    "UEB",
+    "ULR",
+    "VAB",
+    "VAD",
+    "VEV",
+    "VIO",
+    "VIS",
+    "VIT",
+    "VLS",
+    "WAE",
+    "WFJ",
+    "WYN",
+    "ZER"
+  ]
+}
