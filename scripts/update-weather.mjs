@@ -42,7 +42,11 @@ const run=runs.at(-1);if(!run)throw new Error('No complete official forecast run
 const runTime=`${run.slice(0,4)}-${run.slice(4,6)}-${run.slice(6,8)}T${run.slice(8,10)}:${run.slice(10,12)}:00Z`;
 if(Date.now()-Date.parse(runTime)>4*3600000)throw new Error('Latest complete official run is stale');
 let previous;try{previous=JSON.parse(await fs.readFile('weather/index.json','utf8'));}catch{}
-if(previous?.run===run){console.log('Latest complete run already published: '+run);process.exit(0);}
+async function publishStatus(index){
+ const status={version:1,run:index.run,generatedAt:index.generatedAt,pointCount:index.available.length};
+ await fs.writeFile('weather/status.json',JSON.stringify(status,null,2)+'\n');
+}
+if(previous?.run===run){await publishStatus(previous);console.log('Latest complete run already published: '+run);process.exit(0);}
 const data=new Map(selected.map(p=>[p.id,new Map()]));
 for(let i=0;i<parameters.length;i+=2){await Promise.all(parameters.slice(i,i+2).map(async parameter=>{let header=false;const asset=assets.find(([name])=>name.includes('.'+run+'.'+parameter+'.csv'));console.log('Extracting '+parameter+' from official run '+run);
  await forecastLines(asset[1].href,line=>{if(!header){if(!line.startsWith('point_id;point_type_id;Date;'))throw new Error('Forecast schema changed');header=true;return;}const separator=line.indexOf(';');if(!selectedIds.has(line.slice(0,separator)))return;const [id,,time,raw]=line.split(';');if(!/^\d{12}$/.test(time))throw new Error('Forecast timestamp changed');const rows=data.get(id),row=rows.get(time)??{};row[parameter]=number(raw);rows.set(time,row);});console.log('Finished '+parameter);
@@ -57,6 +61,7 @@ for(const point of selected){const entries=[...data.get(point.id)].sort(([a],[b]
 const index={version:1,run,generatedAt,source:root+'api/stac/v1/collections/'+collection,license:'CC-BY-4.0',points:allPoints.filter(p=>p.altitude>=1400||selectedIds.has(p.id)),available:valid,smnStations};
 if(index.points.length>2000)throw new Error('Point index exceeds contract');
 await fs.writeFile('weather/index.json',JSON.stringify(index,null,2)+'\n');
+await publishStatus(index);
 const directories=(await fs.readdir('weather/runs')).filter(name=>/^\d{12}$/.test(name)).sort();
 for(const name of directories.slice(0,-2))await fs.rm(path.join('weather/runs',name),{recursive:true});
 console.log(JSON.stringify({run,points:valid.length,indexPoints:index.points.length,generatedAt}));

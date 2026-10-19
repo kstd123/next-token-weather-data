@@ -15,3 +15,14 @@ No raw nationwide CSV is committed. The working tree retains two forecast runs; 
 `node scripts/update-weather.mjs` performs the same source extraction locally without credentials. The workflow's built-in token writes only this data repository; no product-repository or Cloudflare token is used.
 
 Nationwide forecast downloads use bounded byte-range batches and preserve CSV row boundaries. This reduces slow transfer stalls without changing values or moving parsing back to the product Worker. A complete six-parameter run is required before publication; no partial run replaces the previous snapshot.
+
+
+## Cloudflare scheduling migration
+
+The dedicated Cloudflare dispatcher checks `weather/status.json` every five
+minutes. This tiny manifest is committed atomically with the complete point files;
+its `run` and `generatedAt` keep their original meaning. An unchanged complete run
+does not advance either timestamp. Workflow titles include `cloudflare` and a
+`cf-...` request ID for audit and recovery. Manual dispatch remains available.
+The old GitHub schedule is retained only until the first real Cloudflare cron run
+is verified, then removed. No Cloudflare/GitHub credential is stored in this repo.

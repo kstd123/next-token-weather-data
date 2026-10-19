@@ -1,8 +1,19 @@
 name: Update public MeteoSwiss mountain forecasts
+run-name: "MeteoSwiss | ${{ inputs.trigger_source || github.event_name }} | ${{ inputs.request_id || 'manual' }}"
 on:
   schedule:
     - cron: '17 * * * *'
   workflow_dispatch:
+    inputs:
+      trigger_source:
+        description: 'Origin of the update request'
+        type: choice
+        options: [manual, cloudflare]
+        default: manual
+      request_id:
+        description: 'Scheduler correlation ID (no user data)'
+        type: string
+        required: false
 permissions:
   contents: write
 concurrency:
