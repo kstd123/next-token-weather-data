@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "run": "202610210400",
-  "generatedAt": "2026-10-21T04:15:31.795Z",
+  "run": "202610210500",
+  "generatedAt": "2026-10-21T05:15:47.061Z",
   "source": "https://data.geo.admin.ch/api/stac/v1/collections/ch.meteoschweiz.ogd-local-forecasting",
   "license": "CC-BY-4.0",
   "points": [
@@ -660,6 +660,60 @@
       "lat": 46.135931,
       "lng": 6.885281,
       "station": "VSCLU",
+      "distanceKm": null
+    },
+    {
+      "id": "4433",
+      "name": "Beatenberg Bestand",
+      "altitude": 1523,
+      "lat": 46.700122,
+      "lng": 7.763494,
+      "station": "WSLBAB",
+      "distanceKm": null
+    },
+    {
+      "id": "4434",
+      "name": "Beatenberg Freiland",
+      "altitude": 1560,
+      "lat": 46.700517,
+      "lng": 7.772181,
+      "station": "WSLBAF",
+      "distanceKm": null
+    },
+    {
+      "id": "4437",
+      "name": "Celerina Bestand",
+      "altitude": 1866,
+      "lat": 46.492531,
+      "lng": 9.8884,
+      "station": "WSLCLB",
+      "distanceKm": null
+    },
+    {
+      "id": "4438",
+      "name": "Celerina Freiland",
+      "altitude": 1760,
+      "lat": 46.506081,
+      "lng": 9.875867,
+      "station": "WSLCLF",
+      "distanceKm": null
+    },
+    {
+      "id": "4446",
+      "name": "Nationalpark Bestand",
+      "altitude": 1899,
+      "lat": 46.662372,
+      "lng": 10.229956,
+      "station": "WSLNAB",
+      "distanceKm": null
+    },
+    {
+      "id": "4447",
+      "name": "Nationalpark Freiland",
+      "altitude": 1914,
+      "lat": 46.659192,
+      "lng": 10.241111,
+      "station": "WSLNAF",
       "distanceKm": null
     },
     {
