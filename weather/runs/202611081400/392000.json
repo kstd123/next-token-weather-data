@@ -1,8 +1,8 @@
 {
   "version": 1,
   "pointId": "392000",
-  "run": "202611081200",
-  "generatedAt": "2026-11-08T12:15:33.607Z",
+  "run": "202611081400",
+  "generatedAt": "2026-11-08T14:15:33.201Z",
   "hours": [
     {
       "time": "2026-11-07T21:00:00Z",
@@ -141,97 +141,97 @@
     },
     {
       "time": "2026-11-08T12:00:00Z",
-      "temperature": 5.4,
-      "wind": 4.1,
-      "gust": 11.8,
-      "rainProbability": 0,
-      "lowCloud": 0,
-      "symbol": 3
-    },
-    {
-      "time": "2026-11-08T13:00:00Z",
-      "temperature": 5.9,
-      "wind": 4.5,
-      "gust": 12.2,
-      "rainProbability": 0,
-      "lowCloud": 0,
-      "symbol": 3
-    },
-    {
-      "time": "2026-11-08T14:00:00Z",
-      "temperature": 5.3,
-      "wind": 3,
-      "gust": 13.4,
+      "temperature": 5.5,
+      "wind": 4.7,
+      "gust": 14.5,
       "rainProbability": 0,
       "lowCloud": 0,
       "symbol": 2
     },
     {
+      "time": "2026-11-08T13:00:00Z",
+      "temperature": 5.9,
+      "wind": 6,
+      "gust": 15.1,
+      "rainProbability": 0,
+      "lowCloud": 6,
+      "symbol": 3
+    },
+    {
+      "time": "2026-11-08T14:00:00Z",
+      "temperature": 6.4,
+      "wind": 5.2,
+      "gust": 12.8,
+      "rainProbability": 0,
+      "lowCloud": 10,
+      "symbol": 3
+    },
+    {
       "time": "2026-11-08T15:00:00Z",
-      "temperature": 4.3,
-      "wind": 3,
-      "gust": 14.6,
+      "temperature": 4.5,
+      "wind": 5.1,
+      "gust": 13.8,
       "rainProbability": 0,
       "lowCloud": 0,
       "symbol": 2
     },
     {
       "time": "2026-11-08T16:00:00Z",
-      "temperature": 3.1,
-      "wind": 5.9,
-      "gust": 15.5,
+      "temperature": 3.5,
+      "wind": 5.6,
+      "gust": 15.4,
       "rainProbability": 0,
       "lowCloud": 0,
-      "symbol": 1
+      "symbol": 2
     },
     {
       "time": "2026-11-08T17:00:00Z",
-      "temperature": 1.9,
-      "wind": 8.9,
-      "gust": 16.5,
+      "temperature": 2.3,
+      "wind": 6.3,
+      "gust": 16.6,
       "rainProbability": 0,
       "lowCloud": 0,
       "symbol": 1
     },
     {
       "time": "2026-11-08T18:00:00Z",
-      "temperature": 0.7,
-      "wind": 8,
-      "gust": 19.7,
-      "rainProbability": 0,
-      "lowCloud": 0,
-      "symbol": 126
-    },
-    {
-      "time": "2026-11-08T19:00:00Z",
-      "temperature": -0.3,
+      "temperature": 1.2,
       "wind": 7.6,
-      "gust": 20.1,
-      "rainProbability": 0,
-      "lowCloud": 0,
-      "symbol": 126
-    },
-    {
-      "time": "2026-11-08T20:00:00Z",
-      "temperature": -0.8,
-      "wind": 7.7,
-      "gust": 19.1,
+      "gust": 16.7,
       "rainProbability": 0,
       "lowCloud": 0,
       "symbol": 102
     },
     {
-      "time": "2026-11-08T21:00:00Z",
-      "temperature": -0.9,
-      "wind": 6.5,
-      "gust": 17.6,
+      "time": "2026-11-08T19:00:00Z",
+      "temperature": 0.3,
+      "wind": 9,
+      "gust": 16.8,
+      "rainProbability": 0,
+      "lowCloud": 10,
+      "symbol": 102
+    },
+    {
+      "time": "2026-11-08T20:00:00Z",
+      "temperature": -0.4,
+      "wind": 7.7,
+      "gust": 19.1,
       "rainProbability": 0,
       "lowCloud": 0,
       "symbol": 103
     },
     {
-      "time": "2026-11-08T22:00:00Z",
+      "time": "2026-11-08T21:00:00Z",
       "temperature": -0.8,
+      "wind": 6.5,
+      "gust": 17.6,
+      "rainProbability": 0,
+      "lowCloud": 0,
+      "symbol": 102
+    },
+    {
+      "time": "2026-11-08T22:00:00Z",
+      "temperature": -0.7,
       "wind": 6.2,
       "gust": 18,
       "rainProbability": 0,
@@ -240,7 +240,7 @@
     },
     {
       "time": "2026-11-08T23:00:00Z",
-      "temperature": -0.5,
+      "temperature": -0.4,
       "wind": 5.7,
       "gust": 16.4,
       "rainProbability": 0,
@@ -249,7 +249,7 @@
     },
     {
       "time": "2026-11-09T00:00:00Z",
-      "temperature": 0,
+      "temperature": 0.1,
       "wind": 5.9,
       "gust": 14.8,
       "rainProbability": 0,
@@ -258,7 +258,7 @@
     },
     {
       "time": "2026-11-09T01:00:00Z",
-      "temperature": 0.4,
+      "temperature": 0.5,
       "wind": 5.8,
       "gust": 15.6,
       "rainProbability": 2,
