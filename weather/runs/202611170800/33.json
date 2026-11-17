@@ -1,8 +1,8 @@
 {
   "version": 1,
   "pointId": "33",
-  "run": "202611170600",
-  "generatedAt": "2026-11-17T06:15:33.397Z",
+  "run": "202611170800",
+  "generatedAt": "2026-11-17T08:15:34.080Z",
   "hours": [
     {
       "time": "2026-11-16T21:00:00Z",
@@ -87,91 +87,91 @@
     },
     {
       "time": "2026-11-17T06:00:00Z",
-      "temperature": -3.6,
-      "wind": 22.6,
-      "gust": 67.1,
+      "temperature": -3.7,
+      "wind": 23.9,
+      "gust": 80.3,
       "rainProbability": 100,
-      "lowCloud": 21,
+      "lowCloud": 0,
       "symbol": 108
     },
     {
       "time": "2026-11-17T07:00:00Z",
-      "temperature": -4.1,
-      "wind": 24.7,
-      "gust": 68.3,
+      "temperature": -3.7,
+      "wind": 17,
+      "gust": 51.5,
       "rainProbability": 100,
-      "lowCloud": 80,
-      "symbol": 116
+      "lowCloud": 0,
+      "symbol": 108
     },
     {
       "time": "2026-11-17T08:00:00Z",
-      "temperature": -3.5,
-      "wind": 35.8,
-      "gust": 71,
+      "temperature": -3.7,
+      "wind": 15.9,
+      "gust": 55.6,
       "rainProbability": 100,
-      "lowCloud": 86,
+      "lowCloud": 47,
       "symbol": 119
     },
     {
       "time": "2026-11-17T09:00:00Z",
-      "temperature": -3.1,
-      "wind": 42.1,
-      "gust": 73.7,
+      "temperature": -3.8,
+      "wind": 22.2,
+      "gust": 62.8,
       "rainProbability": 100,
-      "lowCloud": 96,
+      "lowCloud": 89,
       "symbol": 19
     },
     {
       "time": "2026-11-17T10:00:00Z",
-      "temperature": -3,
-      "wind": 39,
-      "gust": 76.8,
+      "temperature": -3.7,
+      "wind": 38.4,
+      "gust": 74.5,
       "rainProbability": 100,
       "lowCloud": 97,
       "symbol": 22
     },
     {
       "time": "2026-11-17T11:00:00Z",
-      "temperature": -3.2,
-      "wind": 35.8,
-      "gust": 79.8,
+      "temperature": -3.8,
+      "wind": 47.6,
+      "gust": 82.1,
       "rainProbability": 100,
       "lowCloud": 97,
       "symbol": 22
     },
     {
       "time": "2026-11-17T12:00:00Z",
-      "temperature": -3.7,
-      "wind": 27.5,
-      "gust": 80.4,
+      "temperature": -4.2,
+      "wind": 43,
+      "gust": 81.6,
       "rainProbability": 100,
-      "lowCloud": 100,
+      "lowCloud": 93,
       "symbol": 22
     },
     {
       "time": "2026-11-17T13:00:00Z",
-      "temperature": -4.3,
-      "wind": 28.2,
-      "gust": 80.2,
+      "temperature": -4.8,
+      "wind": 38.5,
+      "gust": 81.2,
       "rainProbability": 98,
-      "lowCloud": 100,
+      "lowCloud": 59,
       "symbol": 22
     },
     {
       "time": "2026-11-17T14:00:00Z",
-      "temperature": -5.2,
+      "temperature": -5.5,
       "wind": 27.4,
       "gust": 76.4,
-      "rainProbability": 92,
+      "rainProbability": 96,
       "lowCloud": 100,
       "symbol": 22
     },
     {
       "time": "2026-11-17T15:00:00Z",
-      "temperature": -6.1,
+      "temperature": -6.2,
       "wind": 26,
       "gust": 74.6,
-      "rainProbability": 84,
+      "rainProbability": 86,
       "lowCloud": 100,
       "symbol": 19
     },
@@ -204,7 +204,7 @@
     },
     {
       "time": "2026-11-17T19:00:00Z",
-      "temperature": -9,
+      "temperature": -8.9,
       "wind": 21.1,
       "gust": 62.2,
       "rainProbability": 39,
@@ -258,7 +258,7 @@
     },
     {
       "time": "2026-11-18T01:00:00Z",
-      "temperature": -9.7,
+      "temperature": -9.6,
       "wind": 33.7,
       "gust": 88.8,
       "rainProbability": 98,
@@ -267,7 +267,7 @@
     },
     {
       "time": "2026-11-18T02:00:00Z",
-      "temperature": -9.8,
+      "temperature": -9.7,
       "wind": 36.6,
       "gust": 97.2,
       "rainProbability": 100,
@@ -285,7 +285,7 @@
     },
     {
       "time": "2026-11-18T04:00:00Z",
-      "temperature": -10.3,
+      "temperature": -10.2,
       "wind": 37.2,
       "gust": 97.2,
       "rainProbability": 98,
@@ -294,7 +294,7 @@
     },
     {
       "time": "2026-11-18T05:00:00Z",
-      "temperature": -10.5,
+      "temperature": -10.4,
       "wind": 38.3,
       "gust": 99.6,
       "rainProbability": 94,
@@ -303,7 +303,7 @@
     },
     {
       "time": "2026-11-18T06:00:00Z",
-      "temperature": -10.5,
+      "temperature": -10.4,
       "wind": 41.7,
       "gust": 102.9,
       "rainProbability": 88,
@@ -321,7 +321,7 @@
     },
     {
       "time": "2026-11-18T08:00:00Z",
-      "temperature": -10.1,
+      "temperature": -10,
       "wind": 35,
       "gust": 97.8,
       "rainProbability": 90,
@@ -330,7 +330,7 @@
     },
     {
       "time": "2026-11-18T09:00:00Z",
-      "temperature": -9.8,
+      "temperature": -9.7,
       "wind": 38.7,
       "gust": 94.6,
       "rainProbability": 96,
@@ -1126,7 +1126,7 @@
       "wind": 12.7,
       "gust": 28.2,
       "rainProbability": 22,
-      "lowCloud": 3,
+      "lowCloud": 11,
       "symbol": 103
     },
     {
@@ -1135,8 +1135,8 @@
       "wind": 13.5,
       "gust": 28.3,
       "rainProbability": 22,
-      "lowCloud": 4,
-      "symbol": 103
+      "lowCloud": 20,
+      "symbol": 135
     },
     {
       "time": "2026-11-22T03:00:00Z",
@@ -1144,7 +1144,7 @@
       "wind": 13.3,
       "gust": 28.2,
       "rainProbability": 24,
-      "lowCloud": 5,
+      "lowCloud": 30,
       "symbol": 135
     },
     {
@@ -1153,16 +1153,16 @@
       "wind": 12.9,
       "gust": 30.8,
       "rainProbability": 47,
-      "lowCloud": 23,
+      "lowCloud": 53,
       "symbol": 116
     },
     {
       "time": "2026-11-22T05:00:00Z",
-      "temperature": -11.7,
+      "temperature": -11.8,
       "wind": 13.4,
       "gust": 29.7,
       "rainProbability": 47,
-      "lowCloud": 42,
+      "lowCloud": 76,
       "symbol": 116
     },
     {
@@ -1171,43 +1171,43 @@
       "wind": 13.2,
       "gust": 26.8,
       "rainProbability": 47,
-      "lowCloud": 60,
+      "lowCloud": 99,
       "symbol": 116
     },
     {
       "time": "2026-11-22T07:00:00Z",
-      "temperature": -10.6,
+      "temperature": -10.7,
       "wind": 13,
       "gust": 25.9,
       "rainProbability": 63,
-      "lowCloud": 73,
+      "lowCloud": 99,
       "symbol": 119
     },
     {
       "time": "2026-11-22T08:00:00Z",
-      "temperature": -9.8,
+      "temperature": -9.9,
       "wind": 14.1,
       "gust": 29,
       "rainProbability": 63,
-      "lowCloud": 86,
+      "lowCloud": 100,
       "symbol": 119
     },
     {
       "time": "2026-11-22T09:00:00Z",
-      "temperature": -8.9,
+      "temperature": -9.1,
       "wind": 13,
       "gust": 30.2,
       "rainProbability": 63,
-      "lowCloud": 99,
+      "lowCloud": 100,
       "symbol": 16
     },
     {
       "time": "2026-11-22T10:00:00Z",
-      "temperature": -8.2,
+      "temperature": -8.3,
       "wind": 14.7,
       "gust": 31.7,
       "rainProbability": 73,
-      "lowCloud": 99,
+      "lowCloud": 100,
       "symbol": 19
     },
     {
@@ -1216,7 +1216,7 @@
       "wind": 13.8,
       "gust": 30.1,
       "rainProbability": 73,
-      "lowCloud": 99,
+      "lowCloud": 100,
       "symbol": 19
     },
     {
@@ -1225,21 +1225,21 @@
       "wind": 14.1,
       "gust": 33.2,
       "rainProbability": 65,
-      "lowCloud": 99,
+      "lowCloud": 100,
       "symbol": 19
     },
     {
       "time": "2026-11-22T13:00:00Z",
-      "temperature": -7.8,
+      "temperature": -7.7,
       "wind": 12.6,
       "gust": 32.6,
       "rainProbability": 82,
-      "lowCloud": 99,
+      "lowCloud": 100,
       "symbol": 19
     },
     {
       "time": "2026-11-22T14:00:00Z",
-      "temperature": -8.3,
+      "temperature": -8.2,
       "wind": 12.1,
       "gust": 34.1,
       "rainProbability": 84,
@@ -1248,7 +1248,7 @@
     },
     {
       "time": "2026-11-22T15:00:00Z",
-      "temperature": -9.1,
+      "temperature": -9,
       "wind": 15.2,
       "gust": 37.3,
       "rainProbability": 57,
@@ -1257,7 +1257,7 @@
     },
     {
       "time": "2026-11-22T16:00:00Z",
-      "temperature": -10,
+      "temperature": -9.8,
       "wind": 14.9,
       "gust": 38.2,
       "rainProbability": 59,
@@ -1266,7 +1266,7 @@
     },
     {
       "time": "2026-11-22T17:00:00Z",
-      "temperature": -10.7,
+      "temperature": -10.6,
       "wind": 14.9,
       "gust": 41.2,
       "rainProbability": 63,
@@ -1275,7 +1275,7 @@
     },
     {
       "time": "2026-11-22T18:00:00Z",
-      "temperature": -11.2,
+      "temperature": -11.1,
       "wind": 14.3,
       "gust": 44.1,
       "rainProbability": 63,
@@ -1284,7 +1284,7 @@
     },
     {
       "time": "2026-11-22T19:00:00Z",
-      "temperature": -11.5,
+      "temperature": -11.4,
       "wind": 16.5,
       "gust": 43.5,
       "rainProbability": 80,
@@ -1293,11 +1293,11 @@
     },
     {
       "time": "2026-11-22T20:00:00Z",
-      "temperature": -11.6,
+      "temperature": -11.5,
       "wind": 16.8,
       "gust": 45.1,
       "rainProbability": 80,
-      "lowCloud": 99,
+      "lowCloud": 100,
       "symbol": 119
     },
     {
@@ -1329,7 +1329,7 @@
     },
     {
       "time": "2026-11-23T00:00:00Z",
-      "temperature": -11.6,
+      "temperature": -11.5,
       "wind": 17.1,
       "gust": 45.7,
       "rainProbability": 67,
@@ -1338,7 +1338,7 @@
     },
     {
       "time": "2026-11-23T01:00:00Z",
-      "temperature": -11.6,
+      "temperature": -11.5,
       "wind": 15.9,
       "gust": 43.9,
       "rainProbability": 78,
@@ -1347,7 +1347,7 @@
     },
     {
       "time": "2026-11-23T02:00:00Z",
-      "temperature": -11.6,
+      "temperature": -11.4,
       "wind": 19,
       "gust": 47.8,
       "rainProbability": 76,
@@ -1356,7 +1356,7 @@
     },
     {
       "time": "2026-11-23T03:00:00Z",
-      "temperature": -11.6,
+      "temperature": -11.2,
       "wind": 17.8,
       "gust": 49.8,
       "rainProbability": 69,
@@ -1365,43 +1365,43 @@
     },
     {
       "time": "2026-11-23T04:00:00Z",
-      "temperature": -11.6,
+      "temperature": -11,
       "wind": 17.9,
       "gust": 46.5,
       "rainProbability": 69,
-      "lowCloud": 100,
+      "lowCloud": 99,
       "symbol": 119
     },
     {
       "time": "2026-11-23T05:00:00Z",
-      "temperature": -11.6,
+      "temperature": -10.6,
       "wind": 17.5,
       "gust": 46.1,
       "rainProbability": 69,
-      "lowCloud": 100,
+      "lowCloud": 99,
       "symbol": 119
     },
     {
       "time": "2026-11-23T06:00:00Z",
-      "temperature": -11.5,
+      "temperature": -10.1,
       "wind": 16.5,
       "gust": 45.7,
       "rainProbability": 67,
-      "lowCloud": 100,
+      "lowCloud": 99,
       "symbol": 119
     },
     {
       "time": "2026-11-23T07:00:00Z",
-      "temperature": -11.2,
+      "temperature": -9.5,
       "wind": 15.9,
       "gust": 41.8,
       "rainProbability": 71,
-      "lowCloud": 100,
+      "lowCloud": 99,
       "symbol": 119
     },
     {
       "time": "2026-11-23T08:00:00Z",
-      "temperature": -10.8,
+      "temperature": -8.9,
       "wind": 15.8,
       "gust": 42.4,
       "rainProbability": 71,
@@ -1410,7 +1410,7 @@
     },
     {
       "time": "2026-11-23T09:00:00Z",
-      "temperature": -10.1,
+      "temperature": -8.3,
       "wind": 14.8,
       "gust": 42.4,
       "rainProbability": 41,
@@ -1419,7 +1419,7 @@
     },
     {
       "time": "2026-11-23T10:00:00Z",
-      "temperature": -9.4,
+      "temperature": -8,
       "wind": 15.5,
       "gust": 40,
       "rainProbability": 41,
@@ -1428,7 +1428,7 @@
     },
     {
       "time": "2026-11-23T11:00:00Z",
-      "temperature": -8.7,
+      "temperature": -8,
       "wind": 14.3,
       "gust": 39.6,
       "rainProbability": 39,
@@ -1437,7 +1437,7 @@
     },
     {
       "time": "2026-11-23T12:00:00Z",
-      "temperature": -8.2,
+      "temperature": -8.5,
       "wind": 14.8,
       "gust": 42.6,
       "rainProbability": 39,
@@ -1446,74 +1446,74 @@
     },
     {
       "time": "2026-11-23T13:00:00Z",
-      "temperature": -8.1,
+      "temperature": -9.3,
       "wind": 15,
       "gust": 38.7,
       "rainProbability": 47,
-      "lowCloud": 91,
+      "lowCloud": 93,
       "symbol": 16
     },
     {
       "time": "2026-11-23T14:00:00Z",
-      "temperature": -8.4,
+      "temperature": -10.3,
       "wind": 12.6,
       "gust": 38.1,
       "rainProbability": 49,
-      "lowCloud": 84,
+      "lowCloud": 88,
       "symbol": 16
     },
     {
       "time": "2026-11-23T15:00:00Z",
-      "temperature": -9,
+      "temperature": -11.2,
       "wind": 12.2,
       "gust": 36.2,
       "rainProbability": 22,
-      "lowCloud": 76,
+      "lowCloud": 83,
       "symbol": 28
     },
     {
       "time": "2026-11-23T16:00:00Z",
-      "temperature": -9.6,
+      "temperature": -11.7,
       "wind": 12.4,
       "gust": 35.3,
       "rainProbability": 22,
-      "lowCloud": 69,
+      "lowCloud": 78,
       "symbol": 28
     },
     {
       "time": "2026-11-23T17:00:00Z",
-      "temperature": -10.1,
+      "temperature": -11.7,
       "wind": 14,
       "gust": 36.9,
       "rainProbability": 22,
-      "lowCloud": 61,
+      "lowCloud": 72,
       "symbol": 28
     },
     {
       "time": "2026-11-23T18:00:00Z",
-      "temperature": -10.3,
+      "temperature": -11.3,
       "wind": 12.8,
       "gust": 32.9,
       "rainProbability": 24,
-      "lowCloud": 54,
+      "lowCloud": 67,
       "symbol": 128
     },
     {
       "time": "2026-11-23T19:00:00Z",
-      "temperature": -10.3,
+      "temperature": -10.8,
       "wind": 14.3,
       "gust": 31.6,
       "rainProbability": 24,
-      "lowCloud": 45,
-      "symbol": 127
+      "lowCloud": 57,
+      "symbol": 128
     },
     {
       "time": "2026-11-23T20:00:00Z",
-      "temperature": -10.3,
+      "temperature": -10.4,
       "wind": 12.4,
       "gust": 33.9,
       "rainProbability": 24,
-      "lowCloud": 36,
+      "lowCloud": 47,
       "symbol": 127
     },
     {
@@ -1522,8 +1522,8 @@
       "wind": 13.9,
       "gust": 33.4,
       "rainProbability": 6,
-      "lowCloud": 28,
-      "symbol": 103
+      "lowCloud": 38,
+      "symbol": 127
     },
     {
       "time": "2026-11-23T22:00:00Z",
@@ -1531,8 +1531,8 @@
       "wind": 11.9,
       "gust": 34.3,
       "rainProbability": 6,
-      "lowCloud": 19,
-      "symbol": 103
+      "lowCloud": 28,
+      "symbol": 127
     },
     {
       "time": "2026-11-23T23:00:00Z",
@@ -1540,8 +1540,8 @@
       "wind": 13.9,
       "gust": 33.9,
       "rainProbability": 6,
-      "lowCloud": 10,
-      "symbol": 102
+      "lowCloud": 18,
+      "symbol": 127
     },
     {
       "time": "2026-11-24T00:00:00Z",
@@ -1549,8 +1549,8 @@
       "wind": 14.8,
       "gust": 34.6,
       "rainProbability": 6,
-      "lowCloud": 2,
-      "symbol": 126
+      "lowCloud": 8,
+      "symbol": 127
     },
     {
       "time": "2026-11-24T01:00:00Z",
@@ -1558,8 +1558,8 @@
       "wind": 15,
       "gust": 36,
       "rainProbability": 8,
-      "lowCloud": 2,
-      "symbol": 126
+      "lowCloud": 7,
+      "symbol": 127
     },
     {
       "time": "2026-11-24T02:00:00Z",
@@ -1567,7 +1567,7 @@
       "wind": 14.2,
       "gust": 35.4,
       "rainProbability": 8,
-      "lowCloud": 2,
+      "lowCloud": 5,
       "symbol": 126
     },
     {
@@ -1576,7 +1576,7 @@
       "wind": 15.4,
       "gust": 36.7,
       "rainProbability": 2,
-      "lowCloud": 2,
+      "lowCloud": 4,
       "symbol": 126
     },
     {
@@ -1585,12 +1585,12 @@
       "wind": 15.3,
       "gust": 38,
       "rainProbability": 2,
-      "lowCloud": 2,
+      "lowCloud": 3,
       "symbol": 126
     },
     {
       "time": "2026-11-24T05:00:00Z",
-      "temperature": -10.2,
+      "temperature": -10.3,
       "wind": 13.9,
       "gust": 34.1,
       "rainProbability": 2,
@@ -1599,129 +1599,129 @@
     },
     {
       "time": "2026-11-24T06:00:00Z",
-      "temperature": -10.1,
+      "temperature": -10.3,
       "wind": 13.4,
       "gust": 32.7,
       "rainProbability": 2,
-      "lowCloud": 2,
-      "symbol": 103
+      "lowCloud": 1,
+      "symbol": 126
     },
     {
       "time": "2026-11-24T07:00:00Z",
-      "temperature": -9.8,
+      "temperature": -10.2,
       "wind": 13.6,
       "gust": 34.2,
       "rainProbability": 6,
-      "lowCloud": 3,
-      "symbol": 103
+      "lowCloud": 1,
+      "symbol": 126
     },
     {
       "time": "2026-11-24T08:00:00Z",
-      "temperature": -9.2,
+      "temperature": -9.7,
       "wind": 13.3,
       "gust": 32,
       "rainProbability": 8,
-      "lowCloud": 5,
-      "symbol": 103
+      "lowCloud": 1,
+      "symbol": 126
     },
     {
       "time": "2026-11-24T09:00:00Z",
-      "temperature": -8.4,
+      "temperature": -8.8,
       "wind": 14.9,
       "gust": 32.8,
       "rainProbability": 8,
-      "lowCloud": 7,
-      "symbol": 3
+      "lowCloud": 1,
+      "symbol": 26
     },
     {
       "time": "2026-11-24T10:00:00Z",
-      "temperature": -7.6,
+      "temperature": -7.8,
       "wind": 12.4,
       "gust": 31.1,
       "rainProbability": 10,
-      "lowCloud": 8,
-      "symbol": 3
+      "lowCloud": 1,
+      "symbol": 26
     },
     {
       "time": "2026-11-24T11:00:00Z",
-      "temperature": -6.9,
+      "temperature": -7.1,
       "wind": 12.6,
       "gust": 30.7,
       "rainProbability": 12,
-      "lowCloud": 10,
-      "symbol": 3
+      "lowCloud": 1,
+      "symbol": 26
     },
     {
       "time": "2026-11-24T12:00:00Z",
-      "temperature": -6.8,
+      "temperature": -6.9,
       "wind": 12.8,
       "gust": 30.6,
       "rainProbability": 12,
+      "lowCloud": 1,
+      "symbol": 26
+    },
+    {
+      "time": "2026-11-24T13:00:00Z",
+      "temperature": -7.3,
+      "wind": 13.3,
+      "gust": 30.7,
+      "rainProbability": 25,
+      "lowCloud": 3,
+      "symbol": 26
+    },
+    {
+      "time": "2026-11-24T14:00:00Z",
+      "temperature": -8.2,
+      "wind": 12.8,
+      "gust": 32.5,
+      "rainProbability": 24,
+      "lowCloud": 5,
+      "symbol": 26
+    },
+    {
+      "time": "2026-11-24T15:00:00Z",
+      "temperature": -9.3,
+      "wind": 13.4,
+      "gust": 31.1,
+      "rainProbability": 18,
+      "lowCloud": 7,
+      "symbol": 26
+    },
+    {
+      "time": "2026-11-24T16:00:00Z",
+      "temperature": -10.3,
+      "wind": 13.1,
+      "gust": 33.5,
+      "rainProbability": 20,
+      "lowCloud": 10,
+      "symbol": 26
+    },
+    {
+      "time": "2026-11-24T17:00:00Z",
+      "temperature": -10.8,
+      "wind": 12.8,
+      "gust": 32.7,
+      "rainProbability": 20,
       "lowCloud": 12,
       "symbol": 3
     },
     {
-      "time": "2026-11-24T13:00:00Z",
-      "temperature": -7.1,
-      "wind": 13.3,
-      "gust": 30.7,
-      "rainProbability": 25,
-      "lowCloud": 23,
-      "symbol": 3
-    },
-    {
-      "time": "2026-11-24T14:00:00Z",
-      "temperature": -7.9,
-      "wind": 12.8,
-      "gust": 32.5,
-      "rainProbability": 24,
-      "lowCloud": 33,
-      "symbol": 3
-    },
-    {
-      "time": "2026-11-24T15:00:00Z",
-      "temperature": -8.9,
-      "wind": 13.4,
-      "gust": 31.1,
-      "rainProbability": 18,
-      "lowCloud": 44,
-      "symbol": 3
-    },
-    {
-      "time": "2026-11-24T16:00:00Z",
-      "temperature": -9.8,
-      "wind": 13.1,
-      "gust": 33.5,
-      "rainProbability": 20,
-      "lowCloud": 55,
-      "symbol": 3
-    },
-    {
-      "time": "2026-11-24T17:00:00Z",
-      "temperature": -10.4,
-      "wind": 12.8,
-      "gust": 32.7,
-      "rainProbability": 20,
-      "lowCloud": 66,
-      "symbol": 3
-    },
-    {
       "time": "2026-11-24T18:00:00Z",
-      "temperature": -10.6,
+      "temperature": -10.9,
       "wind": 13.6,
       "gust": 33.6,
       "rainProbability": 22,
-      "lowCloud": 77,
-      "symbol": 135
+      "lowCloud": 14,
+      "symbol": 103
     },
     {
       "time": "2026-11-24T19:00:00Z",
-      "temperature": -10.6,
+      "temperature": -10.8,
       "wind": 13.1,
       "gust": 33.4,
       "rainProbability": 43,
-      "lowCloud": 80,
-      "symbol": 116
+      "lowCloud": 19,
+      "symbol": 130
     },
     {
       "time": "2026-11-24T20:00:00Z",
@@ -1729,8 +1729,8 @@
       "wind": 13.1,
       "gust": 34.9,
       "rainProbability": 45,
-      "lowCloud": 83,
-      "symbol": 116
+      "lowCloud": 23,
+      "symbol": 130
     },
     {
       "time": "2026-11-24T21:00:00Z",
@@ -1738,8 +1738,8 @@
       "wind": 12.3,
       "gust": 32.6,
       "rainProbability": 41,
-      "lowCloud": 87,
-      "symbol": 116
+      "lowCloud": 28,
+      "symbol": 130
     },
     {
       "time": "2026-11-24T22:00:00Z",
@@ -1747,8 +1747,8 @@
       "wind": 14.2,
       "gust": 35.1,
       "rainProbability": 41,
-      "lowCloud": 90,
-      "symbol": 116
+      "lowCloud": 33,
+      "symbol": 108
     },
     {
       "time": "2026-11-24T23:00:00Z",
@@ -1756,8 +1756,8 @@
       "wind": 13.8,
       "gust": 34.4,
       "rainProbability": 41,
-      "lowCloud": 93,
-      "symbol": 116
+      "lowCloud": 38,
+      "symbol": 108
     },
     {
       "time": "2026-11-25T00:00:00Z",
@@ -1765,8 +1765,8 @@
       "wind": 15.3,
       "gust": 36.1,
       "rainProbability": 39,
-      "lowCloud": 97,
-      "symbol": 105
+      "lowCloud": 42,
+      "symbol": 104
     },
     {
       "time": "2026-11-25T01:00:00Z",
@@ -1774,8 +1774,8 @@
       "wind": 13.4,
       "gust": 35.7,
       "rainProbability": 55,
-      "lowCloud": 96,
-      "symbol": 116
+      "lowCloud": 48,
+      "symbol": 108
     },
     {
       "time": "2026-11-25T02:00:00Z",
@@ -1783,8 +1783,8 @@
       "wind": 13.6,
       "gust": 35.4,
       "rainProbability": 55,
-      "lowCloud": 95,
-      "symbol": 116
+      "lowCloud": 53,
+      "symbol": 108
     },
     {
       "time": "2026-11-25T03:00:00Z",
@@ -1792,8 +1792,8 @@
       "wind": 14.3,
       "gust": 35.6,
       "rainProbability": 37,
-      "lowCloud": 93,
-      "symbol": 128
+      "lowCloud": 58,
+      "symbol": 103
     },
     {
       "time": "2026-11-25T04:00:00Z",
@@ -1801,71 +1801,71 @@
       "wind": 14.2,
       "gust": 35.7,
       "rainProbability": 35,
-      "lowCloud": 92,
-      "symbol": 128
+      "lowCloud": 64,
+      "symbol": 103
     },
     {
       "time": "2026-11-25T05:00:00Z",
-      "temperature": -10.5,
+      "temperature": -10.6,
       "wind": 14.2,
       "gust": 34.3,
       "rainProbability": 35,
-      "lowCloud": 91,
-      "symbol": 128
+      "lowCloud": 69,
+      "symbol": 103
     },
     {
       "time": "2026-11-25T06:00:00Z",
-      "temperature": -10.5,
+      "temperature": -10.7,
       "wind": 16.2,
       "gust": 37,
       "rainProbability": 35,
-      "lowCloud": 90,
+      "lowCloud": 74,
       "symbol": 128
     },
     {
       "time": "2026-11-25T07:00:00Z",
-      "temperature": -10.3,
+      "temperature": -10.8,
       "wind": 14.9,
       "gust": 35.7,
       "rainProbability": 43,
-      "lowCloud": 90,
+      "lowCloud": 77,
       "symbol": 116
     },
     {
       "time": "2026-11-25T08:00:00Z",
-      "temperature": -10,
+      "temperature": -10.6,
       "wind": 14.1,
       "gust": 35.8,
       "rainProbability": 43,
-      "lowCloud": 91,
+      "lowCloud": 79,
       "symbol": 116
     },
     {
       "time": "2026-11-25T09:00:00Z",
-      "temperature": -9.5,
+      "temperature": -10,
       "wind": 14,
       "gust": 34.1,
       "rainProbability": 33,
-      "lowCloud": 91,
+      "lowCloud": 81,
       "symbol": 28
     },
     {
       "time": "2026-11-25T10:00:00Z",
-      "temperature": -8.9,
+      "temperature": -9.3,
       "wind": 13.7,
       "gust": 33,
       "rainProbability": 33,
-      "lowCloud": 91,
+      "lowCloud": 84,
       "symbol": 28
     },
     {
       "time": "2026-11-25T11:00:00Z",
-      "temperature": -8.4,
+      "temperature": -8.6,
       "wind": 14.1,
       "gust": 33.5,
       "rainProbability": 33,
-      "lowCloud": 92,
-      "symbol": 28
+      "lowCloud": 86,
+      "symbol": 35
     },
     {
       "time": "2026-11-25T12:00:00Z",
@@ -1873,16 +1873,16 @@
       "wind": 12.6,
       "gust": 30.9,
       "rainProbability": 35,
-      "lowCloud": 92,
-      "symbol": 28
+      "lowCloud": 88,
+      "symbol": 35
     },
     {
       "time": "2026-11-25T13:00:00Z",
-      "temperature": -8.4,
+      "temperature": -8.3,
       "wind": 12.8,
       "gust": 32.8,
       "rainProbability": 51,
-      "lowCloud": 93,
+      "lowCloud": 90,
       "symbol": 16
     },
     {
@@ -1891,7 +1891,7 @@
       "wind": 12.9,
       "gust": 33.3,
       "rainProbability": 51,
-      "lowCloud": 94,
+      "lowCloud": 91,
       "symbol": 16
     },
     {
@@ -1900,7 +1900,7 @@
       "wind": 12.7,
       "gust": 31.8,
       "rainProbability": 29,
-      "lowCloud": 95,
+      "lowCloud": 92,
       "symbol": 28
     },
     {
@@ -1909,16 +1909,16 @@
       "wind": 13.3,
       "gust": 33.3,
       "rainProbability": 31,
-      "lowCloud": 96,
+      "lowCloud": 93,
       "symbol": 28
     },
     {
       "time": "2026-11-25T17:00:00Z",
-      "temperature": -11.2,
+      "temperature": -11.1,
       "wind": 13.8,
       "gust": 34.2,
       "rainProbability": 31,
-      "lowCloud": 97,
+      "lowCloud": 95,
       "symbol": 28
     },
     {
@@ -1927,7 +1927,7 @@
       "wind": 14.7,
       "gust": 33.6,
       "rainProbability": 31,
-      "lowCloud": 98,
+      "lowCloud": 96,
       "symbol": 128
     },
     {
@@ -1936,7 +1936,7 @@
       "wind": 14.7,
       "gust": 35.6,
       "rainProbability": 55,
-      "lowCloud": 99,
+      "lowCloud": 96,
       "symbol": 116
     },
     {
@@ -1945,7 +1945,7 @@
       "wind": 14.5,
       "gust": 35.5,
       "rainProbability": 55,
-      "lowCloud": 99,
+      "lowCloud": 97,
       "symbol": 116
     },
     {
@@ -1954,7 +1954,7 @@
       "wind": 15,
       "gust": 35.8,
       "rainProbability": 49,
-      "lowCloud": 99,
+      "lowCloud": 97,
       "symbol": 116
     },
     {
@@ -1963,7 +1963,7 @@
       "wind": 14.3,
       "gust": 35.7,
       "rainProbability": 49,
-      "lowCloud": 99,
+      "lowCloud": 98,
       "symbol": 116
     },
     {
@@ -1972,7 +1972,7 @@
       "wind": 14.9,
       "gust": 38.1,
       "rainProbability": 49,
-      "lowCloud": 99,
+      "lowCloud": 98,
       "symbol": 116
     },
     {
@@ -1981,7 +1981,7 @@
       "wind": 16.7,
       "gust": 38.9,
       "rainProbability": 47,
-      "lowCloud": 99,
+      "lowCloud": 98,
       "symbol": 116
     }
   ]
